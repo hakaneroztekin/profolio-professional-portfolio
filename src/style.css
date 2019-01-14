@@ -151,3 +151,19 @@ header nav span{
     color: purple;
     margin-left: 20px;
 }
+
+#lead-banner img{
+    width: 43%;
+}
+
+#lead-banner{
+    height: 640px;
+    position: relative;
+}
+
+.banner-overlay{
+    position: absolute;
+    top: 20%;
+    width: 100%;
+}
+
