@@ -119,7 +119,7 @@ header :after{
 
 #logo{
     margin-top: 20px;
-    background: url(/wp-content/themes/portfolio/images/logo.png) no-repeat;
+    background: url(images/logo.png) no-repeat;
     height: 70px;
     width: 280px;
     float: left;
@@ -221,3 +221,22 @@ header nav span{
 }
 
 
+
+#about-me{
+    text-align: center;
+    padding: 0 25%
+}
+
+.section-title{
+    color: #111;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#about-me p{
+    width: 80%;
+    margin: 0 10%;
+    font-size: 18px;
+    color: #111;
+    line-height: 1.4em;
+}
