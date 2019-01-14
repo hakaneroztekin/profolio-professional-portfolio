@@ -1,3 +1,11 @@
+/*
+Theme Name: Personal Portfolio Theme
+Theme URI: www.hakaneroztekin.com
+Description: A personal portfolio theme.
+Version: 1.0
+Author: Hakan Eroztekin
+Author URI: www.hakaneroztekin.com
+*/
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
@@ -111,7 +119,7 @@ header :after{
 
 #logo{
     margin-top: 20px;
-    background: url(images/logo.png) no-repeat;
+    background: url(/wp-content/themes/portfolio/images/logo.png) no-repeat;
     height: 70px;
     width: 280px;
     float: left;
@@ -161,7 +169,7 @@ header nav span{
     width: 100%;
     position: relative;
     
-    background-image: url(images/banner-bg.jpg);
+    background-image: url(/wp-content/themes/portfolio/images/banner-bg.jpg);
     background-position: right;
     background-size: 640px;
     background-repeat: no-repeat;

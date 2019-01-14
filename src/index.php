@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>test2</title>
-        <link href="style.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Cormorant:500" rel="stylesheet"> 
-    </head>
-    
-    <body>
+<?php get_header(); ?>
+<body>
         <header>
             <div class="wrapper">
                 <h1 id="logo">HakanEroztekin</h1>
@@ -23,14 +16,14 @@
             </div>
         </header>
         <div id="lead-banner">
-            <img src="images/banner.png" alt="banner">
+            <img src="/wp-content/themes/portfolio/images/banner.png" alt="banner">
             <div class="banner-overlay">
                 <div class="wrapper">
                     <div class="banner-title">Hakan Eröztekin
                     </div>
                     <p>Java Developer</p>
                     <br>
-                    <a href="">EXPLORE MORE</a>
+                    <a href="www.hakaneroztekin.com/wp-content/uploads/2019/1/HakanEroztekinCV.pdf">Download<br>My CV</a>
                 </div>
             </div>
             
@@ -44,5 +37,5 @@
         
         
     </body>
-    
-</html>
+
+<?php get_footer(); ?>
