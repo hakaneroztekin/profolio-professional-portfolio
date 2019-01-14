@@ -157,8 +157,16 @@ header nav span{
 }
 
 #lead-banner{
-    height: 640px;
+    height: 100%;
+    width: 100%;
     position: relative;
+    
+    background-image: url(images/banner-bg.jpg);
+    background-position: right;
+    background-size: 640px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 77%
 }
 
 .banner-overlay{
@@ -185,10 +193,9 @@ header nav span{
     color: #fff;
     display: block;
     width: 152px;
-    height: 27px;
     font-size: 18px;
-    text-align: justify;
-    padding: 12px 0px;
+    text-align: center;
+    padding: 16px 0px;
     text-decoration: none;
     border-radius: 0px;
     text-transform: uppercase;
