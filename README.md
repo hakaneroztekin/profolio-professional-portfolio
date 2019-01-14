@@ -1,4 +1,4 @@
-# portfolio_page
-A personal portfolio page to show off one's work.
+# Wordpress Theme for Developers | Profolio Theme
+Profolio is an open source theme which I create to use in my web page. You can check out the demo below.
 
 **Live Demo:** http://hakaneroztekin.com/
