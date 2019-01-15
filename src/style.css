@@ -114,7 +114,7 @@ header{
 }
 
 header :after{
-    
+
 }
 
 #logo{
@@ -130,7 +130,7 @@ header nav{
     float: right;
     margin-top: 30px;
     margin-right: 10px;
-    
+
 }
 
 header:after{
@@ -168,7 +168,7 @@ header nav span{
     height: 100%;
     width: 100%;
     position: relative;
-    
+
     background-image: url(images/banner-bg.jpg);
     background-position: right;
     background-size: 640px;
@@ -209,7 +209,7 @@ header nav span{
     text-transform: uppercase;
     margin-top: 27px;
     box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
-    
+
     background: rgb(0,0,0);
     background: -moz-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,1)), color-stop(100%,rgba(0,0,0,1)));
@@ -285,22 +285,21 @@ header nav span{
     overflow: hidden;
     background-image: url(images/service-image.jpg);
     margin: -75px 0 0 0;
-    
+
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
-    
+
 }
 
 #education-experience-background .bg{
     margin-top: 20%;
     box-shadow: 16px 16px 16px 16px rgba(0.025,0.025,0.025,0.025);
 
-     
+
 }
 
 #education-experience ul{
-    padding: 0%;
     width: 100%;
     display: table;
     align-content: left;
@@ -320,7 +319,7 @@ header nav span{
     font-size: 20px;
     padding-left: 10%;
     padding-right: 5%;
-    
+
 }
 
 #education-experience .li-brief p{
@@ -330,7 +329,8 @@ header nav span{
 #education-experience .li-details{
     display: table-cell;
     table-layout: fixed;
-    width: 100%; 
+    width: 70%; 
+    padding-right: 5%;
 
 }
 
@@ -341,7 +341,7 @@ header nav span{
 #education-experience .li-details .title{
     font-size: 22px;
     font-weight: bold;
-    
+
 }
 
 #education-experience .li-details .alt-title{
@@ -349,8 +349,11 @@ header nav span{
 }
 
 #education-experience .li-details .titles{
+    display: block;
     float:left;
     margin-right: 8%;
+    table-layout: fixed;
+    width: 50%;
 }
 
 body{
@@ -358,22 +361,22 @@ body{
 }
 
 .hide-details-button:focus ~ .details {
-  display: none;
+    display: none;
 }
 
 .show-details-button:focus ~ .details {
-  display: block;
+    display: block;
 }
 
 .show-details-button:focus {
-  float: left;
+    float: left;
 }
 
 
 .details-content::before {
     content: '\A\A\A'; 
     white-space: pre;
-    
+
 }
 
 .details {
@@ -382,19 +385,26 @@ body{
 }
 
 .show-details-button{
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 0% 0;
+
     font-size: 15px;
     width: 15%;
     padding: 1%;
     margin-right: 2%;
-    margin-bottom: 5%;
+    margin-bottom: 1%;
+    margin-top: 0.2%;
     text-align: center;
     float: left;
     color: #FFF;
     text-transform: uppercase;
     box-shadow: 1px 1px 16px rgba(0,0,0,0.2);
-    
-    
+
+
     background: rgb(0,0,0);
     background: -moz-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,1)), color-stop(100%,rgba(0,0,0,1)));
@@ -412,14 +422,15 @@ body{
     width: 15%;
     padding: 1%;
     margin: 0px;
-    margin-bottom: 8%;
+    margin-bottom: 1%;
+    margin-top: 0.2%;
     text-align: center;
     color: #111;
     text-transform: uppercase;
     box-shadow: 1px 1px 16px rgba(0,0,0,0.2);
     border: 1px solid black;
 
-    
+
     background: rgb(255,255,255);
     background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(255,255,255,1)));
@@ -431,23 +442,18 @@ body{
 }
 
 #education-experience .li-details .details-content{
-   font-size: 18px;
-padding-right: 20%;
+    float:none;
+    font-size: 18px;
+    padding-right: 18%;
 }
 
-.column-left {
-  float: left;
-  flex: 60%;
+#education-experience .li-details .details-content::before{
+    margin-top: 12%;
 }
-.column-right {
-  float: left;
-  flex: 40%;
-}
-
 
 /* Clear floats after the columns */
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
+    content: "";
+    display: table;
+    clear: both;
 }
