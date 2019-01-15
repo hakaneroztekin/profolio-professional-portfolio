@@ -350,7 +350,9 @@ body{
   display: block;
 }
 
-details-content::before {
+
+.details-content::before {
+    content: '\A\A'; 
     white-space: pre;
 }
 
@@ -361,7 +363,8 @@ details-content::before {
 
 .show-details-button{
     display: block;
-    width: 10%;
+    width: 14%;
+    padding: 1%;
     margin-right: 2%;
     text-align: center;
     float: left;
@@ -383,8 +386,8 @@ details-content::before {
 .hide-details-button{
     display: block;
     float: left;
-    
-    width: 10%;
+    width: 14%;
+    padding: 1%;
     text-align: center;
     color: #111;
     text-transform: uppercase;
