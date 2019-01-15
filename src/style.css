@@ -321,6 +321,10 @@ header nav span{
     border: 0px solid pink;
     font-size: 20px;
 }
+
+#education-experience .li-brief p{
+    font-size: 24px;
+}
 #education-experience .li-details{
     padding: 0;
     display: table-cell;
@@ -328,3 +332,6 @@ header nav span{
     border: 0px solid pink;
     font-size: 20px;
 }
+
+
+
