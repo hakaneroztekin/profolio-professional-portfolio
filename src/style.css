@@ -325,13 +325,36 @@ header nav span{
 #education-experience .li-brief p{
     font-size: 24px;
 }
+
 #education-experience .li-details{
-    padding: 0;
     display: table-cell;
-    text-align: left;
-    border: 0px solid pink;
+}
+
+#education-experience .li-details .title{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#education-experience .li-details .alt-title{
     font-size: 20px;
 }
 
+#education-experience .li-details .details{
+    font-size: 18px;
+}
 
+body{
+    display: block;
+}
 
+.hide-details-button:focus ~ .details-content {
+  display: none;
+}
+
+.show-details-button:focus ~ .details-content {
+  display: block;
+}
+
+.details-content {
+    display: none;
+}
