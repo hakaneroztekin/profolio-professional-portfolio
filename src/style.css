@@ -353,7 +353,7 @@ header nav span{
     float:left;
     margin-right: 8%;
     table-layout: fixed;
-    width: 50%;
+    width: 55%;
 }
 
 body{
@@ -374,8 +374,8 @@ body{
 
 
 .details-content::before {
-    content: '\A\A\A'; 
-    white-space: pre;
+    content: '\A\A'; 
+    white-space:pre-line;
 
 }
 
