@@ -306,6 +306,13 @@ header nav span{
     align-content: left;
     text-align: left;
     border-collapse: collapse;
+
+}
+
+
+#education-experience .li-details{
+    margin-top: 0%;
+    margin-bottom: 1%;
 }
 
 #education-experience .li-brief{
@@ -315,6 +322,8 @@ header nav span{
     position: relative;
     border: 0px solid pink;
     font-size: 20px;
+    margin-top: 20%;
+    margin-bottom: 1%;
 }
 
 #education-experience .li-brief p{
@@ -349,14 +358,20 @@ body{
   display: block;
 }
 
+.show-details-button:focus {
+  float: left;
+}
+
 
 .details-content::before {
     content: '\A\A'; 
     white-space: pre;
+    
 }
 
 .details {
     display: none;
+    margin-bottom: 0;
 }
 
 .show-details-button{
@@ -366,7 +381,7 @@ body{
     padding: 1%;
     margin-right: 2%;
     text-align: center;
-    float: left;
+    float: none;
     color: #FFF;
     text-transform: uppercase;
     box-shadow: 1px 1px 16px rgba(0,0,0,0.2);
@@ -408,5 +423,5 @@ body{
 
 #education-experience .li-details .details-content{
    font-size: 18px;
-    padding-right: 20%;
+padding-right: 20%;
 }
