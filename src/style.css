@@ -322,21 +322,20 @@ header nav span{
 }
 
 #education-experience .li-details{
-    display: table-cell;
+    display: block;
 }
 
 #education-experience .li-details .title{
     font-size: 22px;
     font-weight: bold;
+    margin: 0px;
+    
 }
 
 #education-experience .li-details .alt-title{
     font-size: 20px;
 }
 
-#education-experience .li-details .details-content{
-    font-size: 18px;
-}
 
 body{
     display: block;
@@ -350,7 +349,6 @@ body{
   display: block;
 }
 
-
 .details-content::before {
     content: '\A\A'; 
     white-space: pre;
@@ -363,6 +361,7 @@ body{
 
 .show-details-button{
     display: block;
+    font-size: 15px;
     width: 14%;
     padding: 1%;
     margin-right: 2%;
@@ -385,9 +384,11 @@ body{
 
 .hide-details-button{
     display: block;
+    font-size: 15px;
     float: left;
     width: 14%;
     padding: 1%;
+    margin: 0px;
     text-align: center;
     color: #111;
     text-transform: uppercase;
