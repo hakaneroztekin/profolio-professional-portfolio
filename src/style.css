@@ -312,14 +312,15 @@ header nav span{
 
 
 #education-experience .li-brief{
-    width: 30%;
     display: table-cell;
     text-align: center;
+    vertical-align: top;
     position: relative;
     border: 0px solid pink;
     font-size: 20px;
-    margin-top: 20%;
-    margin-bottom: 1%;
+    padding-left: 10%;
+    padding-right: 5%;
+    
 }
 
 #education-experience .li-brief p{
@@ -327,7 +328,10 @@ header nav span{
 }
 
 #education-experience .li-details{
-    display: block;
+    display: table-cell;
+    table-layout: fixed;
+    width: 100%; 
+
 }
 
 #education-experience .li-details.title::before{
