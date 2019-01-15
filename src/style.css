@@ -220,24 +220,21 @@ header nav span{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 );
 }
 
-
-
-.wrapper-about{
-    margin-top: 100px;  
-    text-align: center;
-    padding: 0 25%   
+#skills ul{
+    width: 100%;
+    display: table;
+    table-layout: fixed; 
+    border-collapse: collapse;
 }
-
-
-.wrapper-skills{
-    margin-top: 100px;  
-    text-align: center;
-    padding: 0 15%   
-}
-
-#skills p{ 
+#skills li {
+    display: table-cell;
     text-align: left;
+    border: 0px solid pink;
+    vertical-align: middle;
+    padding: 1%;
+    font-size: 20px;
 }
+
 
 .section-title{
     color: #111;
@@ -246,33 +243,31 @@ header nav span{
     font-weight: bold;
 }
 
+#about{
+    margin-top: 100px;  
+    text-align: center;
+    padding: 0 25%   
+}
+
+
+#skills{
+    margin-top: 100px;  
+    text-align: center;
+    padding: 0 15%   
+}
+
+#skills p{ 
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+
+
 #sections p{
     width: 80%;
     margin: 0 10%;
     font-size: 18px;
     color: #111;
     line-height: 1.4em;
-}
-
-#about-me a{
-    color: #fff;
-    width: 100%;
-    height: auto;
-    font-size: 18px;
-
-    text-align: center;
-    padding: 12px 15px;
-    text-decoration: none;
-    border-radius: 0px;
-    text-transform: uppercase;
-    
-    box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
-    background: rgb(0,0,0);
-    background: -moz-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,1)), color-stop(100%,rgba(0,0,0,1)));
-    background: -webkit-linear-gradient(top, rgba(0,0,0,1) 0%,rgba(0,0,0,1) 100%);
-    background: -o-linear-gradient(top, rgba(0,0,0,1) 0%,rgba(0,0,0,1) 100%);
-    background: -ms-linear-gradient(top, rgba(0,0,0,1) 0%,rgba(0,0,0,1) 100%);
-    background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 );
 }
