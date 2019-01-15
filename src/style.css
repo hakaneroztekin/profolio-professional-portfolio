@@ -220,12 +220,21 @@ header nav span{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 );
 }
 
+#sections p{
+    width: 80%;
+    margin: 0 10%;
+    font-size: 18px;
+    color: #111;
+    line-height: 1.4em;
+}
+
 #skills ul{
     width: 100%;
     display: table;
     table-layout: fixed; 
     border-collapse: collapse;
 }
+
 #skills li {
     display: table-cell;
     text-align: left;
@@ -262,12 +271,38 @@ header nav span{
     margin: 0;
 }
 
+#education-experience{
+    margin-top: 100px;  
+    text-align: center;
+    padding: 0 0%;    
+    overflow: hidden;
+}
+
+.wrapper-edu{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+#education-experience-background{
+    height: 50%;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-image: url(images/service-image.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
-#sections p{
-    width: 80%;
-    margin: 0 10%;
-    font-size: 18px;
-    color: #111;
-    line-height: 1.4em;
+#education-experience-background img{
+    height: 30%;
+    width: 60%;
+    position: relative;
+    overflow: hidden;
+    background-image: url(images/service-image.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
 }
