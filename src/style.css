@@ -383,6 +383,7 @@ body{
     width: 15%;
     padding: 1%;
     margin-right: 2%;
+    margin-bottom: 5%;
     text-align: center;
     float: left;
     color: #FFF;
@@ -407,6 +408,7 @@ body{
     width: 15%;
     padding: 1%;
     margin: 0px;
+    margin-bottom: 8%;
     text-align: center;
     color: #111;
     text-transform: uppercase;
