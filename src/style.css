@@ -303,3 +303,28 @@ header nav span{
 
      
 }
+
+#education-experience ul{
+    padding: 0%;
+    width: 100%;
+    display: table;
+    align-content: left;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+#education-experience .li-brief{
+    width: 30%;
+    display: table-cell;
+    text-align: center;
+    position: relative;
+    border: 0px solid pink;
+    font-size: 20px;
+}
+#education-experience .li-details{
+    padding: 0;
+    display: table-cell;
+    text-align: left;
+    border: 0px solid pink;
+    font-size: 20px;
+}
