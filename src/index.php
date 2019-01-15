@@ -35,9 +35,6 @@
     </div>
 
     <section id="about-me"> 
-        <h2>About me</h2>
-        <img src="images/vertical-split.png" alt="vertical split">
-        <p>about me</p>
     </section>
     
     <section></section>

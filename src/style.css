@@ -222,19 +222,31 @@ header nav span{
 
 
 
-#about-me{
+.wrapper-about{
     margin-top: 100px;  
     text-align: center;
     padding: 0 25%   
 }
 
+
+.wrapper-skills{
+    margin-top: 100px;  
+    text-align: center;
+    padding: 0 15%   
+}
+
+#skills p{ 
+    text-align: left;
+}
+
 .section-title{
     color: #111;
     font-size: 30px;
+    text-align: center
     font-weight: bold;
 }
 
-#about-me p{
+#sections p{
     width: 80%;
     margin: 0 10%;
     font-size: 18px;
