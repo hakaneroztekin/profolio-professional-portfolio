@@ -349,6 +349,7 @@ body{
   display: block;
 }
 
+
 .details-content::before {
     content: '\A\A'; 
     white-space: pre;
@@ -356,7 +357,6 @@ body{
 
 .details {
     display: none;
-
 }
 
 .show-details-button{
@@ -406,3 +406,7 @@ body{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
 }
 
+#education-experience .li-details .details-content{
+   font-size: 18px;
+    padding-right: 20%;
+}
