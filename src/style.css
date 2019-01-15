@@ -310,10 +310,6 @@ header nav span{
 }
 
 
-#education-experience .li-details{
-    margin-top: 0%;
-    margin-bottom: 1%;
-}
 
 #education-experience .li-brief{
     width: 30%;
@@ -334,10 +330,13 @@ header nav span{
     display: block;
 }
 
+#education-experience .li-details.title::before{
+    margin: 85%;    
+}
+
 #education-experience .li-details .title{
     font-size: 22px;
     font-weight: bold;
-    margin: 0px;
     
 }
 
@@ -345,6 +344,10 @@ header nav span{
     font-size: 20px;
 }
 
+#education-experience .li-details .titles{
+    float:left;
+    margin-right: 8%;
+}
 
 body{
     display: block;
@@ -364,7 +367,7 @@ body{
 
 
 .details-content::before {
-    content: '\A\A'; 
+    content: '\A\A\A'; 
     white-space: pre;
     
 }
@@ -377,11 +380,11 @@ body{
 .show-details-button{
     display: block;
     font-size: 15px;
-    width: 14%;
+    width: 15%;
     padding: 1%;
     margin-right: 2%;
     text-align: center;
-    float: none;
+    float: left;
     color: #FFF;
     text-transform: uppercase;
     box-shadow: 1px 1px 16px rgba(0,0,0,0.2);
@@ -401,7 +404,7 @@ body{
     display: block;
     font-size: 15px;
     float: left;
-    width: 14%;
+    width: 15%;
     padding: 1%;
     margin: 0px;
     text-align: center;
@@ -424,4 +427,21 @@ body{
 #education-experience .li-details .details-content{
    font-size: 18px;
 padding-right: 20%;
+}
+
+.column-left {
+  float: left;
+  flex: 60%;
+}
+.column-right {
+  float: left;
+  flex: 40%;
+}
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
