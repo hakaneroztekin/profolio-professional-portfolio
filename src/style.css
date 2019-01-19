@@ -459,13 +459,11 @@ body{
 }
 
 #projects{
-    height: 100%;
-    width: 100%;
-    position: relative;
-
-    background-position: right;
-    background-size: 640px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: 78%
+    margin-top:100px;
+    display: block;
+    align-content: center;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
 }
+
