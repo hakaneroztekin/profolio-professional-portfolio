@@ -479,3 +479,11 @@ body{
 a:hover {
   text-decoration: none;
 }
+
+footer{
+    color: white;
+    background-color: #212121;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    height: 75px;
+}
