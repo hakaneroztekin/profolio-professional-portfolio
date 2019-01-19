@@ -472,7 +472,9 @@ body{
     margin-top:5%;
     text-decoration: none;
     backface-visibility: hidden;
+    
 }
+
 
 a:hover {
   text-decoration: none;
