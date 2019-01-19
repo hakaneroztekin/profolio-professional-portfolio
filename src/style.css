@@ -471,6 +471,7 @@ body{
     display: block;
     margin-top:5%;
     text-decoration: none;
+    backface-visibility: hidden;
 }
 
 
