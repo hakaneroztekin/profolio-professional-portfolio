@@ -470,9 +470,7 @@ body{
 .project-box{
     display: block;
     margin-top:5%;
+    text-decoration: none;
 }
 
-.project-box img {
-  -webkit-filter: grayscale(20%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(20%);
-}
+
