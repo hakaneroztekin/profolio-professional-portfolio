@@ -467,3 +467,7 @@ body{
     font-weight: bold;
 }
 
+.project-box{
+    display: block;
+    margin-top:5%;
+}
