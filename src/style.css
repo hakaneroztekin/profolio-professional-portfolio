@@ -198,7 +198,7 @@ p{
 }
 
 .banner-title{
-    color: #111;
+    color: #212121;
     font-size: 50px;
     font-weight: bold;
 }
@@ -225,9 +225,9 @@ p{
     margin-top: 27px;
     box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
     float:left;
-    background: rgb(0,0,0);
+    background: rgb(33,33,33);
     margin-right: 2%;
-   
+
 }
 
 #lead-banner .white-button{
@@ -239,15 +239,16 @@ p{
     padding: 16px 7px;
     text-decoration: none;
     border-radius: 1px;
-    border-width: 12px;
-    border-color:black;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: #212121;
     text-transform: uppercase;
     margin-top: 27px;
     box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
     float: left;
 
     background: rgb(255,255,255);
-   
+
 }
 
 #skills ul{
