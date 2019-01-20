@@ -516,7 +516,7 @@ footer{
     #lead-banner p{
         font-size: 140%;
     }
-    
+
     #lead-banner{
         height: 100%;
         width: 100%;
@@ -640,42 +640,19 @@ footer{
 
     }
 
-     .black-button{
-        color: white;
-        display: block;
-        width: 140px;
-        font-size: 13px;
-        text-align: center;
-        padding: 12px 7px;
-        text-decoration: none;
-        border-radius: 0px;
-        text-transform: uppercase;
+    #lead-banner .black-button{
         margin-top: 0px;
-        box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
-        float:left;
-        background: rgb(33,33,33);
-        margin-right: 2%;
+    }
+
+    .black-button{
+        margin-top: 20px;
 
     }
+
     .white-button{
-        color: #000;
-        display: block;
         width: 140px;
-        font-size: 15px;
-        text-align: center;
         padding: 12px 7px;
-        text-decoration: none;
-        border-radius: 1px;
-        border-width: 0.5px;
-        border-style: solid;
-        border-color: #212121;
-        text-transform: uppercase;
         margin-top: 10px;
-        box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
-        float: left;
-
-        background: rgb(255,255,255);
-
     }
 
 }
