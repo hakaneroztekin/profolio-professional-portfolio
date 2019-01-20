@@ -24,7 +24,7 @@
                     <p>Java Developer</p>
                     <br>
                     <a href="/wp-content/uploads/2019/01/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
-                    <a href="/wp-content/uploads/2019/01/HakanEroztekinCV.pdf"><div class="white-button">EXPLORE MORE</div></a>
+                    <a href="#about"><div class="white-button">EXPLORE MORE</div></a>
                     <br><br>
                 </div>
             </div>
