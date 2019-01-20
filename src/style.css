@@ -177,6 +177,10 @@ header nav span{
     background-position: 78%
 }
 
+p{
+    font-size: 20px;
+}
+
 .banner-overlay{
     position: absolute;
     top: 20%;
