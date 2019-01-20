@@ -132,8 +132,9 @@ header :after{
 
 header nav{
     float: right;
-    margin-top: 30px;
+    margin-top: 15px;
     margin-right: 10px;
+    font-size: 16px;
 
 }
 
