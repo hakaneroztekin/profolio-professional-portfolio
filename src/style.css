@@ -621,7 +621,6 @@ footer{
     }
 
 
-
     .black-button{
         color: white;
         display: block;
@@ -655,11 +654,20 @@ footer{
         margin-top: 10px;
     }
 
+    #about{
+        padding: 0 13%   
+    }
 }
 
 @media screen and (max-width: 320px) { 
 
+    header nav{
+        float: left;
+        margin-top: -40px;
+        margin-right: 3px;
+        margin-bottom: 5px;
 
+    }
     #lead-banner img{
         width: 53%;
     }
@@ -692,5 +700,43 @@ footer{
         box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
     }
 
+
+    #about{
+        padding: 0 5%   
+    }
+    
+    
+    .black-button{
+        color: white;
+        display: block;
+        width: 140px;
+        font-size: 13px;
+        text-align: center;
+        padding: 12px 7px;
+        text-decoration: none;
+        border-radius: 0px;
+        text-transform: uppercase;
+        margin-top: 0px;
+        box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
+        float:left;
+        background: rgb(33,33,33);
+        margin-right: 2%;
+
+    }
+
+    #lead-banner .black-button{
+        margin-top: 0px;
+    }
+
+    .black-button{
+        margin-top: 20px;
+
+    }
+
+    .white-button{
+        width: 140px;
+        padding: 12px 7px;
+        margin-top: 10px;
+    }
 
 }
