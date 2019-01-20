@@ -583,7 +583,8 @@ footer{
         align-content: left;
         text-align: left;
         border-collapse: collapse;
-        margin-bottom: 5%
+        margin-bottom: 5%;
+        line-height: 45px;
 
     }
     #education-experience ul img{    
