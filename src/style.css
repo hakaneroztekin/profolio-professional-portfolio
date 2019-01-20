@@ -129,16 +129,6 @@ header :after{
     text-indent: -10000px;
 }
 
-@media screen and (max-width: 1365px) { 
-    #logo{ 
-        height: auto;
-        max-width: auto;
-        max-width: 280px; 
-        max-height: 70px;
-    }  
-
-
-}
 
 header nav{
     float: right;
@@ -212,14 +202,6 @@ p{
     font-size: 50px;
     font-weight: bold;
 }
-@media screen and (max-width: 767px) { 
-    .banner-title{
-        color: #111;
-        font-size: 180%;
-        font-weight: bold;
-    }
-}
-
 
 
 #lead-banner p{
@@ -520,4 +502,44 @@ footer{
     padding-top: 1.5%;
     vertical-align: middle;
     height: 75px;
+}
+
+@media screen and (max-width: 767px) { 
+    .banner-title{
+        color: #111;
+        font-size: 180%;
+        font-weight: bold;
+    }
+    p{
+        font-size: 20px;
+    }
+    #lead-banner a{
+        color: #fff;
+        display: block;
+        width: 112px;
+        font-size: 14px;
+        text-align: center;
+        padding: 12px 0px;
+        text-decoration: none;
+        border-radius: 0px;
+        text-transform: uppercase;
+        margin-top: -15px;
+        box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
+    }
+
+
+    header nav{
+        float: left;
+        margin-top: -30px;
+        margin-right: 3px;
+        margin-bottom: 10px;
+
+    }
+
+    #logo{ 
+        height: 70px;
+        width: 140px;
+        align-self: center;
+        margin: 0px;
+    }  
 }
