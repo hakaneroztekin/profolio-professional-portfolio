@@ -110,6 +110,8 @@ input, select {
     padding: 3%;
 }
 
+
+
 header{
     background-color: #FFFFFF;
 }
@@ -125,6 +127,17 @@ header :after{
     width: 280px;
     float: left;
     text-indent: -10000px;
+}
+
+@media screen and (max-width: 1365px) { 
+    #logo{ 
+        height: auto;
+        max-width: auto;
+        max-width: 280px; 
+        max-height: 70px;
+    }  
+
+
 }
 
 header nav{
@@ -199,6 +212,15 @@ p{
     font-size: 50px;
     font-weight: bold;
 }
+@media screen and (max-width: 767px) { 
+    .banner-title{
+        color: #111;
+        font-size: 180%;
+        font-weight: bold;
+    }
+}
+
+
 
 #lead-banner p{
     color: #111;
@@ -297,7 +319,7 @@ p{
 
 @media screen and (max-width: 1365px) { 
 
-#education-experience-background { display: none; }  
+    #education-experience-background { display: none; }  
 
 }
 
