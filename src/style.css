@@ -216,9 +216,9 @@ p{
     color: white;
     display: block;
     width: 152px;
-    font-size: 18px;
+    font-size: 15px;
     text-align: center;
-    padding: 16px 0px;
+    padding: 16px 7px;
     text-decoration: none;
     border-radius: 0px;
     text-transform: uppercase;
@@ -231,13 +231,16 @@ p{
 }
 
 #lead-banner .white-button{
+    color: #000;
     display: block;
     width: 152px;
-    font-size: 18px;
+    font-size: 15px;
     text-align: center;
-    padding: 16px 0px;
+    padding: 16px 7px;
     text-decoration: none;
-    border-radius: 0px;
+    border-radius: 1px;
+    border-width: 12px;
+    border-color:black;
     text-transform: uppercase;
     margin-top: 27px;
     box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
