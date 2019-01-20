@@ -4,10 +4,12 @@ Profolio is an open source theme which I create to use in my web page. You can c
 ## Live Demo
 **Check it out here:** http://hakaneroztekin.com/
 
-## Upcoming Work
-I plan to progress until there is a mixture of minimalistic and professional website. Then I plan to add integration with a Medium blog.
+## Screenshot
+You can explore the current design in the below image;
+![Alt text](/demo-screenshot.png "Portfolio Design")
 
-Inspired by the design: https://bit.ly/2Rqc0OR
+## Credit
+I am inspired to develop this project because [this](@ https://bit.ly/2Rqc0OR) PSD design got my attention. Special thanks to the designer.
 
 ## Developers
 [@hakaneroztekin](www.github.com/hakaneroztekin)
