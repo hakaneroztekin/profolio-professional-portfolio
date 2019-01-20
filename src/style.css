@@ -187,6 +187,11 @@ p{
     width: 100%;
 }
 
+.banner-overlay-skills{
+    position: absolute;
+    top: 70%;
+    width: 100%;
+}
 
 .banner-title{
     color: #111;
@@ -248,7 +253,7 @@ p{
     font-size: 30px;
     text-align: center;
     font-weight: bold;
-    line-height: 0.5em;
+    line-height: 1em;
 }
 
 #about{
@@ -277,23 +282,15 @@ p{
     overflow: hidden;
 }
 
-.wrapper-edu{
-    width: 100%;
-    max-width: 960px;
-    margin-top: 20%;
-}
+
 
 #education-experience-background{
     height: 430px;
-    width: 1366px;
+    width: 100%;
     position: relative;
     overflow: hidden;
     background-image: url(images/service-image.jpg);
-    margin: -75px 0 0 0;
-
-    background-repeat: no-repeat;
-    background-size:cover;
-    background-position: center;
+    margin: -10% 0 0 0;
 
 }
 
