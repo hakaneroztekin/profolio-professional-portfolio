@@ -290,7 +290,13 @@ p{
     position: relative;
     overflow: hidden;
     background-image: url(images/service-image.jpg);
+    background-size: 100%;
     margin: -10% 0 0 0;
+}
+
+@media screen and (max-width: 1365px) { 
+
+#education-experience-background { display: none; }  
 
 }
 
