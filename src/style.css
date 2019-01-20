@@ -606,38 +606,5 @@ footer{
 
     }
 
-    #education-experience .li-brief p{
-        font-size: 20px;
-    }
-
-    #education-experience .li-details{
-        display: table-cell;
-        table-layout: fixed;
-        width: 70%; 
-        padding-right: 5%;
-
-    }
-
-    #education-experience .li-details.title::before{
-        margin: 85%;    
-    }
-
-    #education-experience .li-details .title{
-        font-size: 22px;
-        font-weight: bold;
-
-    }
-
-    #education-experience .li-details .alt-title{
-        font-size: 20px;
-    }
-
-    #education-experience .li-details .titles{
-        display: block;
-        float:left;
-        margin-right: 8%;
-        table-layout: fixed;
-        width: 55%;
-    }
 
 }
