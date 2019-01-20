@@ -501,6 +501,8 @@ footer{
 
 @media screen and (max-width: 767px) { 
 
+
+
     .banner-title{
         color: #111;
         font-size: 180%;
@@ -521,7 +523,11 @@ footer{
         background-size: 640px;
         background-repeat: no-repeat;
         background-size: contain;
-        background-position: 78%;
+        background-position: 90%;
+    }
+
+    #lead-banner img{
+        width: 63%;
     }
 
     #lead-banner a{
@@ -530,7 +536,6 @@ footer{
         width: 112px;
         font-size: 14px;
         text-align: center;
-        padding: 12px 0px;
         text-decoration: none;
         border-radius: 0px;
         text-transform: uppercase;
@@ -613,4 +618,40 @@ footer{
 
 
 
+}
+
+@media screen and (max-width: 320px) { 
+
+
+    #lead-banner img{
+        width: 53%;
+    }
+
+    #lead-banner a{
+        font-size: 7px;
+    }
+
+    .banner-title{
+
+        font-size: 110%;
+
+    }
+
+    #lead-banner p{
+        font-size: 110%;
+    }
+
+    #lead-banner a{
+        color: #fff;
+        display: block;
+        width: 100%;
+        height: 65px;
+        font-size: 100%;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 0px;
+        text-transform: uppercase;
+        margin-top: -10px;
+        box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
+    }
 }
