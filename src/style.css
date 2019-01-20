@@ -299,11 +299,6 @@ p{
     margin: -10% 0 0 0;
 }
 
-@media screen and (max-width: 1365px) { 
-
-    #education-experience-background { display: none; }  
-
-}
 
 #education-experience-background .bg{
     margin-top: 20%;
@@ -562,4 +557,86 @@ footer{
     #skills li {
         display: block;
     }
+
+    #education-experience-background { 
+        display: none; 
+    }  
+
+
+    #education-experience ul{
+        width: 120%;
+        display: block;
+        align-content: left;
+        text-align: left;
+        border-collapse: collapse;
+
+    }
+
+    #education-experience ul .title{
+        display: none;
+
+    }
+
+    #education-experience ul .title-mobile{
+        font-weight: bold;
+        display: block;
+        align-content: left;
+        text-align: left;
+        border-collapse: collapse;
+        margin-bottom: 5%
+
+    }
+    #education-experience ul img{    
+        width: 10%;
+        float: left;
+        margin-right: 10%;
+    }
+
+
+    #education-experience .li-brief{
+        display: block;
+        text-align: center;
+        vertical-align: top;
+        position: relative;
+        border: 0px solid pink;
+        font-size: 20px;
+        padding-left: 10%;
+        padding-right: 5%;
+
+    }
+
+    #education-experience .li-brief p{
+        font-size: 20px;
+    }
+
+    #education-experience .li-details{
+        display: table-cell;
+        table-layout: fixed;
+        width: 70%; 
+        padding-right: 5%;
+
+    }
+
+    #education-experience .li-details.title::before{
+        margin: 85%;    
+    }
+
+    #education-experience .li-details .title{
+        font-size: 22px;
+        font-weight: bold;
+
+    }
+
+    #education-experience .li-details .alt-title{
+        font-size: 20px;
+    }
+
+    #education-experience .li-details .titles{
+        display: block;
+        float:left;
+        margin-right: 8%;
+        table-layout: fixed;
+        width: 55%;
+    }
+
 }
