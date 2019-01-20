@@ -505,14 +505,30 @@ footer{
 }
 
 @media screen and (max-width: 767px) { 
+
     .banner-title{
         color: #111;
         font-size: 180%;
         font-weight: bold;
     }
+
     p{
         font-size: 20px;
     }
+
+    #lead-banner{
+        height: 100%;
+        width: 100%;
+        position: relative;
+
+        background-image: url(images/banner-bg.jpg);
+        background-position: right;
+        background-size: 640px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: 78%;
+    }
+
     #lead-banner a{
         color: #fff;
         display: block;
@@ -541,5 +557,9 @@ footer{
         width: 140px;
         align-self: center;
         margin: 0px;
-    }  
+    } 
+
+    #skills li {
+        display: block;
+    }
 }
