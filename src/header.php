@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Welcome | Hakan Eroztekin</title>
-        <link href="style.css" rel="stylesheet" type="text/css">
+        <link href="wp-content/themes/portfolio/style.css" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css?family=Cormorant:500" rel="stylesheet">
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <meta charset="utf-8">

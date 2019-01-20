@@ -16,7 +16,7 @@
         </header>
         <a name="top"></a> <!--anchor link-->
         <div id="lead-banner" class="w3-mobile">
-            <img src="images/banner.png" alt="banner">
+            <img src="wp-content/themes/portfolio/images/banner.png" alt="banner">
             <div class="banner-overlay">
                 <div class="wrapper">
                     <div class="banner-title">Hakan Eröztekin
@@ -37,16 +37,17 @@
             <section id="about"> 
                 <a name="about"></a> <!--anchor link-->
                 <div class="section-title">ABOUT</div>
-                <img src="images/vertical-split.png" alt="vertical split">
+                <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
                 <p>Hello! I'm <b>Hakan</b>, an enthusiastic final year computer engineering student at Istanbul Technical University. I am a java developer. I will be available for work (4 or 5 days a week) starting from February 2019.</p>  
 
                 <a href="/wp-content/uploads/2019/01/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
+                <br>
 
             </section>
 
             <section id="skills">
                 <div class="section-title">MY SKILLS</div>
-                <img src="images/vertical-split.png" alt="vertical split">
+                <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
 
                 <div class="w3-responsive">
                     <ul class="skills-table">
@@ -96,16 +97,16 @@
                     <a name="experience"></a> <!--anchor link-->
 
                     <div id="education-experience-background" class="w3-hide-small w3-hide-medium w3-mobile">
-                        <img class ="bg " src="images/service-bg.png" alt="banner">
+                        <img class ="bg " src="wp-content/themes/portfolio/images/service-bg.png" alt="banner">
                         <div class="banner-overlay-skills" style="padding: 0%">
                             <div class="section-title">EDUCATION & EXPERIENCE</div>
-                            <img src="images/vertical-split.png" alt="vertical split">
+                            <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
                         </div>
                     </div>
 
                     <ul>
                         <li class="li-brief">
-                            <img src="images/education-bg.jpg">
+                            <img src="wp-content/themes/portfolio/images/education-bg.jpg">
 
                             <div class="title">EDUCATION</div>  
                             <div class="title-mobile w3-hide-medium w3-hide-large">EDUCATION</div>
@@ -128,7 +129,7 @@
 
                     <ul>
                         <li class="li-brief">
-                            <img src="images/experience-bg.png">
+                            <img src="wp-content/themes/portfolio/images/experience-bg.png">
                             <div class="title">EXPERIENCE</div>  
                             <div class="title-mobile w3-hide-medium w3-hide-large">EXPERIENCE</div>       
                         </li>
@@ -206,7 +207,7 @@
                 <a name="projects"></a> <!--anchor link-->
                 <div class="wrapper">
                     <div class="section-title">OPEN SOURCE PROJECTS</div>
-                    <img src="images/vertical-split.png" alt="vertical split" style="align-self: center;">
+                    <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split" style="align-self: center;">
                     <br>
 
                     <div class="w3-container">
@@ -215,7 +216,7 @@
 
                                 <div class="w3-display-container">
                                     <a href="https://github.com/hakaneroztekin/intellect">
-                                        <img src="images/homepage.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Project 1">
+                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Project 1">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
 
                                             <div class="w3-text-white">Intellect »</div>    
@@ -230,7 +231,7 @@
                             <span class="project-box">
                                 <div class="w3-display-container">
                                     <a href="https://github.com/hakaneroztekin/web-scraping">
-                                        <img src="images/project-1.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Project 1">
+                                        <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Project 1">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
                                             <div class="w3-text-white ">Web Scraping »</div>
                                         </div>
@@ -244,7 +245,7 @@
                             <span class="project-box">
                                 <div class="w3-display-container">
                                     <a href="https://github.com/hakaneroztekin">
-                                        <img src="images/project-2.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Project 1">
+                                        <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Project 1">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
                                             <div class="w3-text-white">More Projects »</div>
                                         </div>
