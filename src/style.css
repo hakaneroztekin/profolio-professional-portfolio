@@ -696,9 +696,53 @@ footer{
     }
 
     .white-button{
-       display: none;
+        display: none;
     }
-    
+
+    .show-details-button{
+        font-size: 12px;
+        width: 16%;
+        padding: 1px;
+        margin-left: -16px;
+        margin-right: 3px;
+        float: left;
+
+    }
+
+    .hide-details-button{
+        display: block;
+        font-size: 12px;
+        float: left;
+        width: 16%;
+        padding: 0px 3px;
+        margin: 0px;
+        margin-bottom: 1%;
+        margin-top: 0.2%;
+        text-align: center;
+        color: #111;
+        text-transform: uppercase;
+        box-shadow: 1px 1px 16px rgba(0,0,0,0.2);
+        border: 1px solid black;
+
+
+        background: rgb(255,255,255);
+
+    }
+
+    #education-experience .li-details .titles{
+        display: table-cell;
+        float:left;
+        margin-right: 8%;
+        table-layout: fixed;
+        width: 55%;
+    }
+
+    #education-experience .li-details .title{
+        display: table-cell;
+        font-size: 20px;
+        color:black;
+    }
+
 }
 
 @media screen and (max-width: 320px) { 
