@@ -660,12 +660,18 @@ footer{
 }
 
 @media screen and (max-width: 480px) { 
+
+    .wrapper{
+        margin: 0 0;
+        padding: 1%;
+    }
+
     header nav{
         float: left;
         margin-top: -40px;
         margin-right: 2px;
         margin-bottom: 2px;
-        font-size: 100%;
+        font-size: 120%;
 
     }
 
@@ -681,18 +687,28 @@ footer{
         float: left;
     }
 
+    #lead-banner{
+        background-position: 95%;
+    }
+
     .banner-title{
 
-        font-size: 140%;
+        font-size: 180%;
+                margin-left: 10px;
+
 
     }
 
     #lead-banner p{
         font-size: 130%;
+                margin-left: 10px;
+
     }
 
     #lead-banner .black-button{
         margin-top: 0px;
+                margin-left: 10px;
+
     }
 
     .white-button{
@@ -742,12 +758,12 @@ footer{
         color:black;
     }
 
-    
+
 
 
 }
 
-@media screen and (max-width: 320px) { 
+@media screen and (max-width: 400px) { 
 
     header nav{
         float: left;
@@ -756,8 +772,18 @@ footer{
         margin-bottom: 5px;
 
     }
+
+
+    header nav li{
+        padding: 0px;
+        margin:0 7px;
+        font-size: 80%;
+        float: left;
+
+    }
+
     #lead-banner img{
-        width: 53%;
+        width: 63%;
     }
 
     #lead-banner a{
@@ -766,12 +792,12 @@ footer{
 
     .banner-title{
 
-        font-size: 110%;
+        font-size: 140%;
 
     }
 
     #lead-banner p{
-        font-size: 110%;
+        font-size: 140%;
     }
 
     #lead-banner a{
@@ -787,6 +813,12 @@ footer{
         margin-top: -10px;
         box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
     }
+
+
+    #lead-banner{
+        background-position: 95%;
+    }
+
 
 
     #about{
