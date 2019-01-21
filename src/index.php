@@ -1,6 +1,6 @@
 <?php get_header(); ?>
-<body>
-     <header>
+  <body>
+        <header>
             <div class="wrapper">
                 <div id="logo" class="w3-third w3-mobile logo">HakanEroztekin</div>
 
@@ -42,7 +42,6 @@
 
                 <a href="/wp-content/uploads/2019/01/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
                 <br>
-
             </section>
 
             <section id="skills">
@@ -114,13 +113,15 @@
                         <li class="li-details">
                             <span class="titles">
                                 <p class="title">Computer Engineering (B.Sc.) </p>
-                                <p class="alt-title">Istanbul Technical University, 2013 - 2019 June (expected) </p>
+                                <p class="alt-title w3-hide-small">Istanbul Technical University, 2013 - 2019 June (expected) </p>
+                                <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>2013 - 2019 June (expected) </p>
+
                             </span>
                             <span class="show-details-button" tabindex="0">Show Details</span>
 
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
-                                <p class="details-content"><br><br>After I ranked <b>top 0.1% among 2 million participants</b> in the National University Entrance Exam in Turkey, I started my education at ITU.</p></span>
+                                <p class="details-content w3-container">After I ranked <b>top 0.1% among 2 million participants</b> in the National University Entrance Exam in Turkey, I started my education at ITU.</p></span>
                         </li>
                     </ul>
 
@@ -136,13 +137,15 @@
                         <li class="li-details">
                             <span class="titles">
                                 <p class="title">Java Development Intern</p>
-                                <p class="alt-title">adesso Turkey, July 2018 – Aug 2018</p>
+                                <p class="alt-title w3-hide-small">adesso Turkey, July 2018 - Aug 2018</p>
+                                <p class="alt-title w3-hide-medium w3-hide-large">adesso Turkey,<br>July 2018 – Aug 2018</p>
+
                             </span>
                             <span class="show-details-button" tabindex="0">Show Details</span>
 
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
-                                <p class="details-content"><br><br>As a member of the global team, developed <b>back-end side</b> of an internal project for the company.	
+                                <p class="details-content w3-container">As a member of the global team, developed <b>back-end side</b> of an internal project for the company.	
                                     <br><b>Technology stack:</b> Java 8, Spring Boot, Spring Security, Spring Batch, RESTful API, Hibernate, Maven, Lombok, Quartz, SQL, JSON, IntelliJ IDEA, Heidi SQL, Swagger UI, Postman, Sourcetree, Github
                                 </p></span>
                         </li>
@@ -152,13 +155,14 @@
                         <li class="li-details">
                             <span class="titles">
                                 <p class="title">Android Development Intern</p>
-                                <p class="alt-title">Istanbul Technical University, June 2018 – July 2018 </p>
+                                <p class="alt-title w3-hide-small">Istanbul Technical University, June 2018 – July 2018 </p>
+                                <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>June 2018 – July 2018 </p>
                             </span>
                             <span class="show-details-button" tabindex="0">Show Details</span>
 
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
-                                <p class="details-content"><br><br>Worked as an Android Developer in an <b>innovative wearable technology</b> project under the supervision of Asst. Prof. Gökhan İnce. <b>Developed an Android application</b> that provides <b>real time visual information</b> to the user.  My graduation project on <b>artificial intelligence</b> is continuum of this project.
+                                <p class="details-content w3-container">Worked as an Android Developer in an <b>innovative wearable technology</b> project under the supervision of Asst. Prof. Gökhan İnce. <b>Developed an Android application</b> that provides <b>real time visual information</b> to the user.  My graduation project on <b>artificial intelligence</b> is continuum of this project.
                                     <br><b>Technology stack:</b> Java, Android Studio, C/C++, Arduino</p></span>
                         </li>
                     </ul>
@@ -166,18 +170,15 @@
                         <li class="li-brief"></li>
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Research Development Intern
-
-                                </p>
-                                <p class="alt-title">Medianova CDN, Jan 2018 - May 2018
-
-                                </p>
+                                <p class="title">Research Development Intern</p>
+                                <p class="alt-title w3-hide-small">Medianova CDN, Jan 2018 - May 2018</p>
+                                <p class="alt-title w3-hide-medium w3-hide-large">Medianova CDN,<br>Jan 2018 - May 2018</p>
                             </span>
                             <span class="show-details-button" tabindex="0">Show Details</span>
 
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
-                                <p class="details-content"><br><br>During my internship at Medianova, I worked on a project where we have developed more efficient routing pathways using <b>modified shortest path algorithms</b>. I also did research about <b>GPU computing, image and video compression </b> and <b>artificial intelligence</b>. Further, I did <b>regular documentation</b> and a <b>presentation</b> about my work.</span>
+                                <p class="details-content w3-container">During my internship at Medianova, I worked on a project where we have developed more efficient routing pathways using <b>modified shortest path algorithms</b>. I also did research about <b>GPU computing, image and video compression </b> and <b>artificial intelligence</b>. Further, I did <b>regular documentation</b> and a <b>presentation</b> about my work.</span>
                         </li>
                     </ul>
                     <ul>
@@ -216,10 +217,18 @@
 
                                 <div class="w3-display-container">
                                     <a href="https://github.com/hakaneroztekin/intellect">
-                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Project 1">
-                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
 
-                                            <div class="w3-text-white">Intellect »</div>    
+                                        <div class="w3-hide-small">
+                                            <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Intellect Database">
+                                            <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
+                                                <div class="w3-text-white">Intellect »</div>    
+                                            </div></div>
+
+                                        <div class="w3-hide-medium w3-hide-large">
+                                            <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Intellect Database Project">
+                                            <div class="w3-display-position w3-padding"  style="top:55%;left:17%;">
+                                                <div class="w3-text-white">Intellect »</div>    
+                                            </div>
                                         </div>
                                     </a>
                                 </div>
@@ -231,10 +240,20 @@
                             <span class="project-box">
                                 <div class="w3-display-container">
                                     <a href="https://github.com/hakaneroztekin/web-scraping">
-                                        <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Project 1">
-                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
-                                            <div class="w3-text-white ">Web Scraping »</div>
+
+                                        <div class="w3-hide-small">
+                                            <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Web Scraping  Project">
+                                            <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
+                                                <div class="w3-text-white">Web Scraping »</div>    
+                                            </div></div>
+
+                                        <div class="w3-hide-medium w3-hide-large">
+                                            <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Web Scraping Project">
+                                            <div class="w3-display-position w3-padding"  style="top:55%;left:17%;">
+                                                <div class="w3-text-white">Web Scraping »</div>    
+                                            </div>
                                         </div>
+
                                     </a>
                                 </div>
 
@@ -245,10 +264,20 @@
                             <span class="project-box">
                                 <div class="w3-display-container">
                                     <a href="https://github.com/hakaneroztekin">
-                                        <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Project 1">
-                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
-                                            <div class="w3-text-white">More Projects »</div>
+
+                                        <div class="w3-hide-small">
+                                            <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="All Projects">
+                                            <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
+                                                <div class="w3-text-white">All Projects »</div>    
+                                            </div></div>
+
+                                        <div class="w3-hide-medium w3-hide-large">
+                                            <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="All Projects">
+                                            <div class="w3-display-position w3-padding"  style="top:55%;left:17%;">
+                                                <div class="w3-text-white">All Projects »</div>    
+                                            </div>
                                         </div>
+
                                     </a>
                                 </div>
 
