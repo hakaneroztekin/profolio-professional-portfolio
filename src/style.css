@@ -700,23 +700,22 @@ footer{
     }
 
     .show-details-button{
-        font-size: 12px;
-        width: 16%;
+        font-size: 14px;
+        width: 18%;
         padding: 1px;
-        margin-left: -16px;
+        margin-left: 3px;
         margin-right: 3px;
         float: left;
 
     }
 
     .hide-details-button{
-        display: block;
-        font-size: 12px;
+        font-size: 14px;
         float: left;
-        width: 16%;
+        width: 18%;
         padding: 0px 3px;
         margin: 0px;
-        margin-bottom: 1%;
+        margin-bottom: 2%;
         margin-top: 0.2%;
         text-align: center;
         color: #111;
@@ -742,6 +741,8 @@ footer{
         font-size: 20px;
         color:black;
     }
+
+
 
 }
 
