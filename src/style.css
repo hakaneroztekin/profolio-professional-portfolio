@@ -659,6 +659,48 @@ footer{
     }
 }
 
+@media screen and (max-width: 480px) { 
+    header nav{
+        float: left;
+        margin-top: -40px;
+        margin-right: 2px;
+        margin-bottom: 2px;
+        font-size: 100%;
+
+    }
+
+    header nav li{
+        padding: 0px;
+        margin:0 7px;
+        font-size: 90%;
+        float: left;
+
+    }
+
+    header nav ul{
+        float: left;
+    }
+
+    .banner-title{
+
+        font-size: 140%;
+
+    }
+
+    #lead-banner p{
+        font-size: 130%;
+    }
+
+    #lead-banner .black-button{
+        margin-top: 0px;
+    }
+
+    .white-button{
+       display: none;
+    }
+    
+}
+
 @media screen and (max-width: 320px) { 
 
     header nav{
@@ -704,8 +746,8 @@ footer{
     #about{
         padding: 0 5%   
     }
-    
-    
+
+
     .black-button{
         color: white;
         display: block;
