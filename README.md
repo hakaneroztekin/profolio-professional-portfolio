@@ -1,5 +1,5 @@
 # Wordpress Theme for Developers | Profolio Theme
-Profolio is an open source theme which I create to use in my web page. You can check out the demo below.
+Profolio is a minimalistic and professional website for developers. 
 
 ## Live Demo
 **Check it out here:** http://hakaneroztekin.com/
