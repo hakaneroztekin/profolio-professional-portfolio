@@ -517,36 +517,6 @@ footer{
         font-size: 140%;
     }
 
-    #lead-banner{
-        height: 100%;
-        width: 100%;
-        position: relative;
-
-        background-image: url(images/banner-bg.jpg);
-        background-position: right;
-        background-size: 640px;
-        background-repeat: no-repeat;
-        background-size: contain;
-        background-position: 90%;
-    }
-
-    #lead-banner img{
-        width: 63%;
-    }
-
-    #lead-banner a{
-        color: #fff;
-        display: block;
-        width: 112px;
-        font-size: 14px;
-        text-align: center;
-        text-decoration: none;
-        border-radius: 0px;
-        text-transform: uppercase;
-        margin-top: -15px;
-        box-shadow: 1px 1px 16px rgba(0,0,0,0.4);
-    }
-
 
     header nav{
         float: left;
