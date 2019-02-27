@@ -274,57 +274,57 @@
                 <div class="section-title">OPEN SOURCE PROJECTS</div>
                 <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
                 <br>
-                <p class="alt-title">I have 400+ commits in the 14 repositories <a href="https://github.com/hakaneroztekin">on GitHub</a>, since October 2018. Below are the some of my favorites.</p>
+                <p class="alt-title">I have 400+ commits in the 14 repositories <a href="https://github.com/hakaneroztekin">on GitHub</a>, since October 2018. <br> Below are the some of my favorites.</p>
                 <div class="w3-container">
-                        <span class="w3-third">
-                            <span class="project-box">
-                                <div class="w3-display-container">
-                                    <a href="https://github.com/hakaneroztekin/course-register-system">
+                    <span class="w3-third">
+                        <span class="project-box">
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/course-register-system">
 
-                                        <div class="w3-hide-small">
-                                            <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Course Register System">
-                                            <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
-                                                <div class="w3-text-white">Course Register System »</div>    
-                                            </div></div>
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Course Register System">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
+                                            <div class="w3-text-white">Course Register System »</div>    
+                                        </div></div>
 
-                                        <div class="w3-hide-medium w3-hide-large">
-                                            <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Course Register System">
-                                            <div class="w3-display-position w3-padding"  style="top:55%;left:17%;">
-                                                <div class="w3-text-white">Course Register System »</div>    
-                                            </div>
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Course Register System">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:17%;">
+                                            <div class="w3-text-white">Course Register System »</div>    
                                         </div>
+                                    </div>
 
-                                    </a>
-                                </div>
+                                </a>
+                            </div>
 
 
-                            </span>
                         </span>
-                        <span class="w3-third">
+                    </span>
+                    <span class="w3-third">
 
-                            <span class="project-box">
+                        <span class="project-box">
 
-                                <div class="w3-display-container">
-                                    <a href="https://github.com/hakaneroztekin/intellect">
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/intellect">
 
-                                        <div class="w3-hide-small">
-                                            <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Intellect Database">
-                                            <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
-                                                <div class="w3-text-white">Intellect Database »</div>    
-                                            </div></div>
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Intellect Database">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:17%;">
+                                            <div class="w3-text-white">Intellect Database »</div>    
+                                        </div></div>
 
-                                        <div class="w3-hide-medium w3-hide-large">
-                                            <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Intellect Database Project">
-                                            <div class="w3-display-position w3-padding"  style="top:55%;left:17%;">
-                                                <div class="w3-text-white">Intellect Database »</div>    
-                                            </div>
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Intellect Database Project">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:17%;">
+                                            <div class="w3-text-white">Intellect Database »</div>    
                                         </div>
-                                    </a>
-                                </div>
+                                    </div>
+                                </a>
+                            </div>
 
 
-                            </span>
                         </span>
+                    </span>
 
                     <span class="w3-third">
                         <span class="project-box">
