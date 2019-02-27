@@ -649,7 +649,7 @@ footer{
     .white-button{
         width: 140px;
         padding: 12px 7px;
-        margin-top: 10px;
+        margin-top: -2px;
     }
 
     #about{
@@ -657,7 +657,7 @@ footer{
     }
 }
 
-@media screen and (max-width: 480px) { 
+@media screen and (max-width: 700px) { 
 
     .wrapper{
         margin: 0 0;
