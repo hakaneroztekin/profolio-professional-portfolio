@@ -103,32 +103,32 @@
                             <div class="progress-bar bg-dark" style="width:90%"></div>
                         </div></li>
                 </ul>
-                    <ul class="skills-table">
-                        <li>Android Studio
-                            <div class="progress">
-                                <div class="progress-bar bg-dark" style="width:95%"></div></div></li>
-                        <li>Arduino 
-                            <div class="progress">
-                                <div class="progress-bar bg-dark" style="width:90%"></div>
-                            </div></li>
-                        <li>Computer Communications
-                            <div class="progress">
-                                <div class="progress-bar bg-dark" style="width:80%"></div>
-                            </div></li>
-                    </ul>
-                    <ul class="skills-table">
-                        <li>Artificial Ingelligence - Improving!
-                            <div class="progress">
-                                <div class="progress-bar bg-dark" style="width:80%"></div></div></li>
-                        <li>Assembly 
-                            <div class="progress">
-                                <div class="progress-bar bg-dark" style="width:85%"></div>
-                            </div></li>
-                        <li>Wordpress / PHP
-                            <div class="progress">
-                                <div class="progress-bar bg-dark" style="width:85%"></div>
-                            </div></li>
-                    </ul>
+                <ul class="skills-table">
+                    <li>Android Studio
+                        <div class="progress">
+                            <div class="progress-bar bg-dark" style="width:95%"></div></div></li>
+                    <li>Arduino 
+                        <div class="progress">
+                            <div class="progress-bar bg-dark" style="width:90%"></div>
+                        </div></li>
+                    <li>Computer Communications
+                        <div class="progress">
+                            <div class="progress-bar bg-dark" style="width:80%"></div>
+                        </div></li>
+                </ul>
+                <ul class="skills-table">
+                    <li>Artificial Ingelligence - Improving!
+                        <div class="progress">
+                            <div class="progress-bar bg-dark" style="width:80%"></div></div></li>
+                    <li>Assembly 
+                        <div class="progress">
+                            <div class="progress-bar bg-dark" style="width:85%"></div>
+                        </div></li>
+                    <li>Wordpress / PHP
+                        <div class="progress">
+                            <div class="progress-bar bg-dark" style="width:85%"></div>
+                        </div></li>
+                </ul>
 
             </div>   
         </section>
@@ -255,6 +255,8 @@
                             <p class="title">Research Development Team Lead</p>
                             <p class="alt-title">ITU Entrepreneurship Club, Aug 2016 – Jan 2017 </p>
                         </span>
+                        <span class="show-details-button" tabindex="0">Show Details</span>
+
                         <span class="details">
                             <span class="hide-details-button" tabindex="0">Hide Details</span>
                             <p class="details-content w3-container">
@@ -271,6 +273,8 @@
                             </p>
                             <p class="alt-title">ITU Entrepreneurship Club, Jan 2016 – Jan 2017</p>
                         </span>
+                        <span class="show-details-button" tabindex="0">Show Details</span>
+
                         <span class="details">
                             <span class="hide-details-button" tabindex="0">Hide Details</span>
                             <p class="details-content w3-container">
