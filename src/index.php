@@ -22,7 +22,12 @@
             <div class="wrapper">
                 <div class="banner-title">Hakan Eröztekin
                 </div>
-                <p>Java Developer</p>
+                                <div class="w3-hide-small">
+                    <p>Founder, Java Developer</p>
+                </div>
+                <div class="w3-hide-large w3-hide-medium">
+                    <p>Founder,<br> Java Developer</p>
+                </div>
                 <br>
                 <a href="/wp-content/uploads/2019/01/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
                 <a href="#about"><div class="white-button">EXPLORE MORE</div></a>
