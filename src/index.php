@@ -73,8 +73,6 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <div class="progress-bar bg-dark" style="width:85%"></div>
                         </div></li>
                 </ul>
-                
-                
                 <ul class="skills-table">
                     <li>JSF Primefaces (Java Frontend)
                         <div class="progress">
@@ -119,29 +117,24 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                     <ul>
                         <li class="li-brief">
                             <img src="wp-content/themes/portfolio/images/education-bg.jpg">
-
                             <div class="title">EDUCATION</div>  
                             <div class="title-mobile w3-hide-medium w3-hide-large">EDUCATION</div>
                         </li>
                         <li class="li-details">
                             <span class="titles">
                                 <p class="title">Computer Engineering (B.Sc.) </p>
-                                <p class="alt-title w3-hide-small">Istanbul Technical University, 2013 - 2019 June </p>
-                                <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>2013 - 2019 June </p>
+                                <p class="alt-title w3-hide-small">Istanbul Technical University, 2013 - 2019 June</p>
+                                <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>2013 - 2019 June</p>
 
                             </span>
                             <span class="show-details-button" tabindex="0">Show Details</span>
 
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
-                                <p class="details-content w3-container">After I ranked <b>top 0.1% among 2 million participants</b> in the National University Entrance Exam in Turkey, I started my education at ITU.</p></span>
+                                <p class="details-content w3-container">After I ranked <b>top 0.1% among 2 million participants</b> in the National University Entrance Exam in Turkey, I started my education at ITU. Graduated by the June 2019.</p></span>
                         </li>
                     </ul>
-
-
                     <br>
-
-
                     <ul>
                         <li class="li-brief">
                             <img src="wp-content/themes/portfolio/images/experience-bg.png">
@@ -150,19 +143,23 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         </li>
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Junior Java Developer</p>
+                                <p class="title">Full Stack Java Software Engineer</p>
                                 <p class="alt-title w3-hide-small">adesso Turkey, March 2019 - Present</p>
                                 <p class="alt-title w3-hide-medium w3-hide-large">adesso Turkey,<br>March 2019 - Present</p>
-
                             </span>
                             <span class="show-details-button" tabindex="0">Show Details</span>
 
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-									After the internship, I have started to work full-time on the <b>Java 8 project with Spring</b>. As it being a fast growing company, we work to <b>deliver digital solutions</b> to the company <b>in agile fashion</b>. We are developing a <b>resource planning application</b> (similar to ERP) for the use of the company. I have developed modules that <b>every employee uses on a daily basis</b>. Also, worked on reports and charts modules for the use of management and finance.
-                                    <br/><b>Technology stack:</b> Java 8, Spring MVC, Hibernate, Maven, SQL, HeidiSQL,MariaDB, Bitbucket, IntelliJ, Jira, Confluence, JSP, JSF, Primefaces, JSON,HTML / XHTML, CSS
-                                </p></span>
+                                    <ul>
+                                        <li>Developing a <b>resource planning application</b> (similar to ERP - Enterprise Resource Planning) for digitalization of the company.</li>
+                                        <li>Developed <b>timesheet, capacity management, chart and excel modules</b> used by the management and employees on a daily basis.</li>
+                                        <li>Working <b>full-time</b> as a <b>Full Stack Java Software Engineer</b> in an agile team since day 1.</li>
+                                        <li><b>Technology stack:</b> Java 8, Spring Boot, Hibernate & JPA, SQL, MariaDB, Maven, MVC Architecture, JSF Primefaces & XHTML & CSS, Bitbucket, IntelliJ, Jira, Confluence</li>
+                                    </ul>
+                                </p>
+                        </span>
                         </li>
                     </ul>
                     <ul>
