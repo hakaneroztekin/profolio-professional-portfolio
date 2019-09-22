@@ -23,13 +23,13 @@
                 <div class="banner-title">Hakan Eröztekin
                 </div>
                                 <div class="w3-hide-small">
-                    <p>Founder, Java Engineer, AI Enthusiast</p>
+                    <p>Founder, Full Stack Java Engineer, AI Enthusiast</p>
                 </div>
                 <div class="w3-hide-large w3-hide-medium">
-                    <p>Founder,<br> Java Engineer<br> AI Enthusiast</p>
+                    <p>Founder,<br> Full Stack Java Engineer<br> AI Enthusiast</p>
                 </div>
                 <br>
-                <a href="/wp-content/uploads/2019/08/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
+                <a href="/wp-content/uploads/2019/10/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
                 <a href="#about"><div class="white-button">EXPLORE MORE</div></a>
 
                 <br><br>
@@ -45,13 +45,13 @@
             <a name="about"></a> <!--anchor link-->
             <div class="section-title">ABOUT</div>
             <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split"><br>
-            Hello! I'm <b>Hakan</b>, as a Java Software Engineer and a Computer Engineering graduate from
+            As a <b>Full Stack Java Software Engineer</b> a <b>Computer Engineering</b> graduate from
 <b>Istanbul Technical University</b> who ranked <b>top 0.1% among 2 million students</b> in
 the National University Entrance Exam, I aspire to continue <b>developing my skills</b>
 and <b>lead projects</b> in the future. I am eager to work for your company <b>to make it
 			more successful, to make our customers happier</b>.
             <br><br>
-            <a href="/wp-content/uploads/2019/08/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
+            <a href="/wp-content/uploads/2019/10/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
             <br>
         </section>
 
@@ -61,10 +61,10 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
 
             <div class="w3-responsive">
                 <ul class="skills-table">
-                    <li>Java
+                    <li>Java 8
                         <div class="progress">
                             <div class="progress-bar bg-dark" style="width:90%"></div></div></li>
-                    <li>Spring MVC, Boot, Security
+                    <li>Spring Framework
                         <div class="progress">
                             <div class="progress-bar bg-dark" style="width:85%"></div>
                         </div></li>
@@ -73,72 +73,34 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <div class="progress-bar bg-dark" style="width:85%"></div>
                         </div></li>
                 </ul>
+                
+                
                 <ul class="skills-table">
-                    <li>Python
+                    <li>JSF Primefaces (Java Frontend)
                         <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:90%"></div></div></li>
-                    <li>Linux (Ubuntu, CentOS)
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:85%"></div>
-                        </div></li>
+                            <div class="progress-bar bg-dark" style="width:95%"></div></div></li>
                     <li>HTML / CSS
                         <div class="progress">
                             <div class="progress-bar bg-dark" style="width:90%"></div>
                         </div></li>
+                    <li>JavaScript - learning!
+                        <div class="progress">
+                            <div class="progress-bar bg-dark" style="width:50%"></div>
+                        </div></li>
                 </ul>
                 <ul class="skills-table">
-                    <li>C/C++
+                    <li>Python & AI
                         <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:95%"></div></div></li>
+                            <div class="progress-bar bg-dark" style="width:85%"></div></div></li>
                     <li>Jira / Confluence
                         <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:85%"></div>
+                            <div class="progress-bar bg-dark" style="width:90%"></div>
                         </div></li>
                     <li>Github / Bitbucket
                         <div class="progress">
                             <div class="progress-bar bg-dark" style="width:90%"></div>
                         </div></li>
                 </ul>
-                <ul class="skills-table">
-                    <li>IntelliJ / Eclipse
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:95%"></div></div></li>
-                    <li>Visual Studio / CLion
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:95%"></div>
-                        </div></li>
-                    <li>PyCharm / Anaconda
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:90%"></div>
-                        </div></li>
-                </ul>
-                <ul class="skills-table">
-                    <li>Android Studio
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:95%"></div></div></li>
-                    <li>Arduino 
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:90%"></div>
-                        </div></li>
-                    <li>Computer Communications
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:80%"></div>
-                        </div></li>
-                </ul>
-                <ul class="skills-table">
-                    <li>Artificial Ingelligence - Improving!
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:80%"></div></div></li>
-                    <li>Assembly 
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:85%"></div>
-                        </div></li>
-                    <li>Wordpress / PHP
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:85%"></div>
-                        </div></li>
-                </ul>
-
             </div>   
         </section>
 
