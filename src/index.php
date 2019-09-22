@@ -174,38 +174,63 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
 
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
+                                <p class="details-content w3-container">
                                 <ul>
-                                    <li>Acquired a very rare achievement; ranking the top 0.1% among 2 million students in the National University Entrance Exam as an ordinary high school graduate (düz lise in Turkish). </li>
+                                    <li>Acquired <b>a very rare achievement</b>; ranking the <b>top 0.1% among 2 million students</b> in the National University Entrance Exam as an ordinary high school graduate (düz lise in Turkish). </li>
                                     <li>Founded Sınavı-Yerim blog and spent time to teach students how to study properly and conquer the exam.</li>
-                                    <li>Wrote 200+ articles, visited by students 2.5 million times. </li>
-                                    <li>As it being a hobby, currently learning JavaScript to implement user friendly functionalities for the website.</li>
+                                    <li>Wrote <b>200+ articles</b>, visited by students <b>2.5 million times</b>. </li>
+                                    <li>As it being a hobby, currently learning <b>JavaScript</b> to implement <b>user friendly functionalities</b> for the website.</li>
                                 </ul>
-                                <p class="details-content w3-container">After achieving the <b>top 0.1%</b> tier in the National University Entrance Exam <b>as a regular high school</b> (“Düz Lise” in Turkish) graduate, I started sharing my strategies with the high school students. I published <b>more than 200 articles</b>, reached <b>2,5 million page views</b>, earned money through <b>AdSense</b>. Besides, I <b>founded a startup</b> with the same name that includes specialized effort on <b>articles</b>, <b>infographics</b>, <b>SEO customization</b>, <b>mailing</b>, <b>marketing</b> and <b>sales</b>. Since then, I am able to make money through the startup. Click <a href="https://sinaviyerim.com">here</a> to check out Sınavı Yerim.
                                 </p></span>
                         </li>
                     </ul>
-                    
                     <ul>
                         <li class="li-brief"></li>
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Android Development Intern</p>
-                                <p class="alt-title w3-hide-small">Istanbul Technical University, June 2018 – July 2018 </p>
-                                <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>June 2018 – July 2018 </p>
+                                <p class="title">Java Software Engineer Intern</p>
+                                <p class="alt-title w3-hide-small">adesso Turkey, 2018 July – 2018 Aug</p>
+                                <p class="alt-title w3-hide-medium w3-hide-large">adesso Turkey,<br>2018 July – 2018 Aug</p>
                             </span>
                             <span class="show-details-button" tabindex="0">Show Details</span>
 
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    I took a part in an <b>innovative wearable technology</b> project under the supervision of Asst. Prof. Gökhan İnce to develop an <b>Android application</b>. Even though I was not experienced with Android before, I was <b>able to learn</b> basics of the Android by myself <b>in two days</b> and started working on the mobile application within the first week of the internship. In the project, wearable sensors are attached to the knees which produce messages about the movements of the knees. The Android application acquires messages over Bluetooth and <b>shows real-time measurements</b> to the user. We also have a live demonstration <a href="https://www.youtube.com/watch?v=xQhtbA6bWUA">video</a>. Besides, my graduation project on <b>artificial intelligence</b> is on this topic which aims to <b>identify the movements</b> (walking, running, crouching) correctly. I am responsible to <b>collect data with my knees</b>, <b>use pattern recognition algorithms</b>, <b>train and test the model</b>.
-                                    <br>
-                                    <b>Technology stack:</b> Java, Android Studio, C/C++, Arduino, JavaScript, Socket.io
-
+                                    <ul>
+                                        <li>As a fast growing company, a faster way to elect best candidates is needed.</li>
+                                        <li>Developed a <b>Java 8</b> based <b>RESTful API</b> with <b>Spring</b> for the HR. It can be used to <b>create</b> and <b>send tests</b> to candidates. </li>
+                                        <li><b>Helped newcomer interns</b> and <b>worked together with the front end</b> for the integration. Also, prepared an <b>extensive documentation</b>. </li>
+                                        <li>The internship was an extraordinary experience that contributed to <b>shape my future as a Full Stack Java Software Engineer</b>.</li>
+                                        <li><b>Technology stack:</b> Java 8, Spring (Boot, MVC, Security, Batch), Hibernate, JPA, MariaDB, SQL / HeidiSQL, RESTful Web Services, Maven, Lombok, Quartz, JSON, IntelliJ, Swagger UI, Postman, GitHub, Sourcetree</li>
+                                    </ul>
                                 </p></span>
                         </li>
                     </ul>
-                    
+
+                    <ul>
+                        <li class="li-brief"></li>
+                        <li class="li-details">
+                            <span class="titles">
+                                <p class="title">Android Development Intern</p>
+                                <p class="alt-title w3-hide-small">Istanbul Technical University, June 2018 – July 2018</p>
+                                <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>June 2018 – July 2018</p>
+                            </span>
+                            <span class="show-details-button" tabindex="0">Show Details</span>
+
+                            <span class="details">
+                                <span class="hide-details-button" tabindex="0">Hide Details</span>
+                                <p class="details-content w3-container">
+                                    <ul>
+                                        <li>Joined a research project to <b>develop an Android application</b>. In the project, knee movements are measured with elastic sensors and the <b>Android application</b> shows <b>real-time visual information</b> about knee movements.</li>
+                                        <li>After the internship, developed <b>machine learning</b> part of the project as a graduation project. The <b>AI classifies</b> movements as walking, running and squats. </li>
+                                        <li><b>Self-learned</b> all the technologies and tools needed for the projects</li>
+                                        <li>Demo videos for both of the projects are accessible at the GitHub profile.</li>
+                                        <li><b>Technology stack:</b> Java, Android Studio, Arduino, JavaScript & Socket.io, Gradle, Python (keras, tensorflow, sklearn, matplotlib), Anaconda, C/C++</li>
+                                    </ul>
+                                </p></span>
+                        </li>
+                    </ul>  
                     <ul>
                         <li class="li-brief"></li>
                         <li class="li-details">
