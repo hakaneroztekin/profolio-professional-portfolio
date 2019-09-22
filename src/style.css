@@ -2,9 +2,10 @@
 Theme Name: Personal Portfolio Theme
 Theme URI: www.hakaneroztekin.com
 Description: A personal portfolio theme.
-Version: 1.0
+Version: 1.1
 Author: Hakan Eroztekin
 Author URI: www.hakaneroztekin.com
+Project code is accessible at https://github.com/hakaneroztekin/profolio-professional-portfolio
 */
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -332,8 +333,6 @@ p{
 
 }
 
-
-
 #education-experience .li-brief{
     display: table-cell;
     text-align: center;
@@ -355,7 +354,7 @@ p{
     table-layout: fixed;
     width: 70%; 
     padding-right: 5%;
-
+    font-size: 18px;
 }
 
 #education-experience .li-details.title::before{
@@ -503,9 +502,6 @@ footer{
 }
 
 @media screen and (max-width: 767px) { 
-
-
-
     .banner-title{
         color: #111;
         font-size: 170%;
@@ -755,10 +751,6 @@ footer{
         font-size: 20px;
         color:black;
     }
-
-
-
-
 }
 
 @media screen and (max-width: 400px) { 
