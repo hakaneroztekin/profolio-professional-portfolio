@@ -304,7 +304,8 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                 <div class="section-title">OPEN SOURCE PROJECTS</div>
                 <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
                 <br>
-                <p class="alt-title">I have 1250+ commits in the 30 projects <a href="https://github.com/hakaneroztekin">on GitHub</a>. <br> Below are the some of my favorites.</p>
+                <p class="alt-title">I have 1250+ commits in the 30 projects <a href="https://github.com/hakaneroztekin">on GitHub</a>.<br> Code of this site is open-source too :) Access here: <a href="https://github.com/hakaneroztekin/profolio-professional-portfolio">Profolio</a>. 
+                    <br> Below are the some of my favorites.</p> 
                 <div class="w3-container">
                     <span class="w3-third">
                         <span class="project-box">
@@ -388,15 +389,15 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <div class="w3-display-container">
                                 <a href="https://github.com/hakaneroztekin/todo-app-javascript">
                                     <div class="w3-hide-small">
-                                        <img src="wp-content/themes/portfolio/images/project-more.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Course Register System">
+                                        <img src="wp-content/themes/portfolio/images/js-todo-app.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="JavaScript To-Do App">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">JavaScript To-Do »</div>    
+                                            <div class="w3-text-black">JavaScript To-Do »</div>    
                                         </div></div>
 
                                     <div class="w3-hide-medium w3-hide-large">
-                                        <img src="wp-content/themes/portfolio/images/project-more.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Course Register System">
+                                        <img src="wp-content/themes/portfolio/images/js-todo-app.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="JavaScript To-Do App">
                                         <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">JavaScript To-Do »</div>    
+                                            <div class="w3-text-black">JavaScript To-Do »</div>    
                                         </div>
                                     </div>
 
@@ -411,42 +412,64 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         <span class="project-box">
 
                             <div class="w3-display-container">
-                                <a href="https://github.com/hakaneroztekin/intellect">
+                                <a href="https://github.com/hakaneroztekin/runners-machine-learning">
 
                                     <div class="w3-hide-small">
-                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Intellect Database">
+                                        <img src="wp-content/themes/portfolio/images/runners-machine-learning.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Runner's Machine Learning">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Intellect Database »</div>    
+                                            <div class="w3-text-black">Runner's Machine Learning »</div>    
                                         </div></div>
 
                                     <div class="w3-hide-medium w3-hide-large">
-                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Intellect Database Project">
+                                        <img src="wp-content/themes/portfolio/images/runners-machine-learning.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Runner's Machine Learning">
                                         <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Intellect Database »</div>    
+                                            <div class="w3-text-black">Runner's Machine Learning »</div>    
                                         </div>
                                     </div>
                                 </a>
                             </div>
-
-
                         </span>
                     </span>
 
                     <span class="w3-third">
                         <span class="project-box">
                             <div class="w3-display-container">
-                                <a href="https://github.com/hakaneroztekin/top-rated-companies-in-istanbul">
+                                <a href="https://github.com/hakaneroztekin/runners-android-app">
 
                                     <div class="w3-hide-small">
-                                        <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Best Companies in Istanbul">
+                                        <img src="wp-content/themes/portfolio/images/runners-android-app.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Runner's Android App">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Top Rated Companies in Istanbul »</div>    
+                                            <div class="w3-text-black">Runner's Android App »</div>    
                                         </div></div>
 
                                     <div class="w3-hide-medium w3-hide-large">
-                                        <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Best Companies In Istanbul">
+                                        <img src="wp-content/themes/portfolio/images/runners-android-app.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Runner's Android App">
                                         <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Top Rated Companies In Istanbul »</div>    
+                                            <div class="w3-text-black">Runner's Android App »</div>    
+                                        </div>
+                                    </div>
+
+                                </a>
+                            </div>
+                        </span>
+                    </span>
+                </div>
+                
+                <div class="w3-container">
+                    <span class="w3-third">
+                        <span class="project-box">
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/software-development-articles-medium">
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/medium-cover.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Medium Articles">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
+                                            <div class="w3-text-green">Medium Articles »</div>    
+                                        </div></div>
+                                    
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/medium-cover.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Medium Articles">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
+                                            <div class="w3-text-green">Medium Articles »</div>    
                                         </div>
                                     </div>
 
@@ -454,6 +477,52 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             </div>
 
 
+                        </span>
+                    </span>
+                    <span class="w3-third">
+
+                        <span class="project-box">
+
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/web-scraping">
+
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/yok-scraper.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Python Web Scraper">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
+                                            <div class="w3-text-black">Python Web Scraper »</div>    
+                                        </div></div>
+
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/yok-scraper.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Python Web Scraper">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
+                                            <div class="w3-text-black">Python Web Scraper »</div>    
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </span>
+                    </span>
+
+                    <span class="w3-third">
+                        <span class="project-box">
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/profolio-professional-portfolio">
+
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/profolio-cover.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Profolio - A Minimal Portfolio">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
+                                            <div class="w3-text-black">Minimal Portfolio »</div>    
+                                        </div></div>
+
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/profolio-cover.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Profolio - A Minimal Portfolio">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
+                                            <div class="w3-text-black">Minimal Portfolio »</div>    
+                                        </div>
+                                    </div>
+
+                                </a>
+                            </div>
                         </span>
                     </span>
                 </div>
