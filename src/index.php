@@ -266,7 +266,12 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    During <b>my team lead</b>, with the <b>over 20 members</b>, we worked together to <b>improve the R&amp;D activity</b>. My responsibility included <b>organization</b>, <b>planning</b> and <b>execution</b> of the meetings, <b>resolving conflicts</b>, <b>preparing documentation</b> and <b>attending the board meetings</b>. Most of the R&amp;D members were new to the club, though after my leading was over, almost all of them <b>continued working voluntarily</b>, <b>took responsibility</b> in the club and <b>even lead the club</b>. This was a <b>remarkable experience</b> for me, <b>learning about my communication</b> and <b>leading skills</b>. Besides, together with the entrepreneurship education I took, these were the <b>driving force to found my startup</b>, Sınavı Yerim.
+                                <ul>
+                                    <li>As a <b>team lead of 20+ students</b>, responsibility was <b>organization</b> of the meetings, <b>conflict management</b>, documentation and <b>attending board meetings</b>.</li>
+                                    <li>Even though most of the R&amp;D members were new to the club, after my leading period, most of them <b>continued working voluntarily</b>, took responsibility in the club and even become the leader of the club.</li>
+                                    <li>Was a remarkable experience to improve <b>communication</b> and <b>leading skills</b>. </li>
+                                    <li>Besides, together with the entrepreneurship education, these were the driving force to found the startup to help high school students, Sınavı-Yerim.</li>
+                                </ul>
                                 </p></span>
                         </li>
                     </ul>
