@@ -68,7 +68,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         <div class="progress">
                             <div class="progress-bar bg-dark" style="width:85%"></div>
                         </div></li>
-                    <li>SQL
+                    <li>SQL, MySQL, PostgreSQL
                         <div class="progress">
                             <div class="progress-bar bg-dark" style="width:85%"></div>
                         </div></li>
@@ -258,7 +258,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         <li class="li-brief"></li>
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Research Development Team Lead</p>
+                                <p class="title">Research Development Team Leader</p>
                                 <p class="alt-title">ITU Entrepreneurship Club, Aug 2016 – Jan 2017 </p>
                             </span>
                             <span class="show-details-button" tabindex="0">Show Details</span>
@@ -269,7 +269,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                                 <ul>
                                     <li>As a <b>team lead of 20+ students</b>, responsibility was <b>organization</b> of the meetings, <b>conflict management</b>, documentation and <b>attending board meetings</b>.</li>
                                     <li>Even though most of the R&amp;D members were new to the club, after my leading period, most of them <b>continued working voluntarily</b>, took responsibility in the club and even become the leader of the club.</li>
-                                    <li>Was a remarkable experience to improve <b>communication</b> and <b>leading skills</b>. </li>
+                                    <li>Was a remarkable experience to improve <b>communication</b> and <b>leading skills</b>.</li>
                                     <li>Besides, together with the entrepreneurship education, these were the driving force to found the startup to help high school students, Sınavı-Yerim.</li>
                                 </ul>
                                 </p></span>
@@ -279,9 +279,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         <li class="li-brief"></li>
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Research Development Team Member
-
-                                </p>
+                                <p class="title">Research Development Team Member</p>
                                 <p class="alt-title">ITU Entrepreneurship Club, Jan 2016 – Jan 2017</p>
                             </span>
                             <span class="show-details-button" tabindex="0">Show Details</span>
@@ -289,7 +287,10 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    When I was a member in the R&amp;D team of the club we were gathering to find <b>creative ideas</b> to <b>metamorphose the structure</b> of the entrepreneurship club. In the each <b>brainstorming session</b> we banded together in different locations to get us <b>step out of the regularity zone</b>. We were talking for hours which led us to be familiarized with the notion of <b>entrepreneurship</b> over time.
+                                    <ul>
+                                        <li>Gathered regularly to <b>find creative ideas</b> to <b>metamorphose the structure</b> of the club. </li>
+                                        <li>Discussed the solutions to the problems faced by the club, and how to educate ourselves and the other members of the club for hours which led us to be familiarized with the notion of <b>entrepreneurship</b> over time. </li>
+                                    </ul>
                                 </p></span>
                         </li>
                     </ul>
@@ -303,7 +304,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                 <div class="section-title">OPEN SOURCE PROJECTS</div>
                 <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
                 <br>
-                <p class="alt-title">I have 1000+ commits in the 25 projects <a href="https://github.com/hakaneroztekin">on GitHub</a>. <br> Below are the some of my favorites.</p>
+                <p class="alt-title">I have 1250+ commits in the 30 projects <a href="https://github.com/hakaneroztekin">on GitHub</a>. <br> Below are the some of my favorites.</p>
                 <div class="w3-container">
                     <span class="w3-third">
                         <span class="project-box">
@@ -358,18 +359,18 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                     <span class="w3-third">
                         <span class="project-box">
                             <div class="w3-display-container">
-                                <a href="https://github.com/hakaneroztekin/best-companies-in-istanbul">
+                                <a href="https://github.com/hakaneroztekin/top-rated-companies-in-istanbul">
 
                                     <div class="w3-hide-small">
                                         <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Best Companies in Istanbul">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Best Companies in Istanbul »</div>    
+                                            <div class="w3-text-white">Top Rated Companies in Istanbul »</div>    
                                         </div></div>
 
                                     <div class="w3-hide-medium w3-hide-large">
                                         <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Best Companies In Istanbul">
                                         <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Best Companies In Istanbul »</div>    
+                                            <div class="w3-text-white">Top Rated Companies In Istanbul »</div>    
                                         </div>
                                     </div>
 
@@ -450,6 +451,15 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <div class="w3-circle w3-center w3-white" style="width: 13%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left; margin-left: 4%;">
                                 <strong><span style="font-size: 11px; color:#0077b5">
                                     <i class="fab fa-linkedin-in"></i>
+                                    </span></strong>
+
+                            </div>
+                        </a>
+                    </div><div span="w3-col">
+                        <a href="https://github.com/hakaneroztekin">
+                            <div class="w3-center" style="width: 13%; border:0; float:left; margin-left: 4%; margin-top: -3%;">
+                                <strong><span style="font-size: 25px; color:#ffffff">
+                                    <i class="fab fa-github"></i>
                                     </span></strong>
 
                             </div>
