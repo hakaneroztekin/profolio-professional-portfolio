@@ -381,6 +381,82 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         </span>
                     </span>
                 </div>
+                
+                <div class="w3-container">
+                    <span class="w3-third">
+                        <span class="project-box">
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/todo-app-javascript">
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/project-more.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Course Register System">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
+                                            <div class="w3-text-white">JavaScript To-Do »</div>    
+                                        </div></div>
+
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/project-more.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Course Register System">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
+                                            <div class="w3-text-white">JavaScript To-Do »</div>    
+                                        </div>
+                                    </div>
+
+                                </a>
+                            </div>
+
+
+                        </span>
+                    </span>
+                    <span class="w3-third">
+
+                        <span class="project-box">
+
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/intellect">
+
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Intellect Database">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
+                                            <div class="w3-text-white">Intellect Database »</div>    
+                                        </div></div>
+
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Intellect Database Project">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
+                                            <div class="w3-text-white">Intellect Database »</div>    
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+
+                        </span>
+                    </span>
+
+                    <span class="w3-third">
+                        <span class="project-box">
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/top-rated-companies-in-istanbul">
+
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Best Companies in Istanbul">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
+                                            <div class="w3-text-white">Top Rated Companies in Istanbul »</div>    
+                                        </div></div>
+
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Best Companies In Istanbul">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
+                                            <div class="w3-text-white">Top Rated Companies In Istanbul »</div>    
+                                        </div>
+                                    </div>
+
+                                </a>
+                            </div>
+
+
+                        </span>
+                    </span>
+                </div>
             </div>
         </section>
 
@@ -461,7 +537,6 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                                 <strong><span style="font-size: 25px; color:#ffffff">
                                     <i class="fab fa-github"></i>
                                     </span></strong>
-
                             </div>
                         </a>
                     </div>
