@@ -23,13 +23,13 @@
                 <div class="banner-title">Hakan Eröztekin
                 </div>
                                 <div class="w3-hide-small">
-                    <p>Founder, Java Developer</p>
+                    <p>Founder, Java Engineer, AI Enthusiast</p>
                 </div>
                 <div class="w3-hide-large w3-hide-medium">
-                    <p>Founder,<br> Java Developer</p>
+                    <p>Founder,<br> Java Engineer<br> AI Enthusiast</p>
                 </div>
                 <br>
-                <a href="/wp-content/uploads/2019/01/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
+                <a href="/wp-content/uploads/2019/08/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
                 <a href="#about"><div class="white-button">EXPLORE MORE</div></a>
 
                 <br><br>
@@ -45,9 +45,13 @@
             <a name="about"></a> <!--anchor link-->
             <div class="section-title">ABOUT</div>
             <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split"><br>
-            Hello! I'm <b>Hakan</b>, as a near future <b>Computer Engineering</b> graduate from <b>Istanbul Technical University</b> who ranked <b>top 0.1%</b> in the National University Entrance Exam, I am highly motivated working as a <b>Java Developer</b>. I aspire to continue <b>developing my skills</b> and <b>lead projects</b> in the future. 
+            Hello! I'm <b>Hakan</b>, as a Java Software Engineer and a Computer Engineering graduate from
+<b>Istanbul Technical University</b> who ranked <b>top 0.1% among 2 million students</b> in
+the National University Entrance Exam, I aspire to continue <b>developing my skills</b>
+and <b>lead projects</b> in the future. I am eager to work for your company <b>to make it
+			more successful, to make our customers happier</b>.
             <br><br>
-            <a href="/wp-content/uploads/2019/01/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
+            <a href="/wp-content/uploads/2019/08/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
             <br>
         </section>
 
@@ -160,8 +164,8 @@
                         <li class="li-details">
                             <span class="titles">
                                 <p class="title">Computer Engineering (B.Sc.) </p>
-                                <p class="alt-title w3-hide-small">Istanbul Technical University, 2013 - 2019 June (expected) </p>
-                                <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>2013 - 2019 June (expected) </p>
+                                <p class="alt-title w3-hide-small">Istanbul Technical University, 2013 - 2019 June </p>
+                                <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>2013 - 2019 June </p>
 
                             </span>
                             <span class="show-details-button" tabindex="0">Show Details</span>
@@ -194,8 +198,8 @@
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    After the internship at the company, now I am a <b>full-time working student</b> member of the agile team. I am involved in a development of a <b>Java Web project with Spring</b>. As it is being an internal project, we have a chance to listen closely our customers' needs and take their feedback quickly. My responsibility includes <b>development and maintenance of the new features</b> and attending the <b>daily meetings</b>.
-                                    <br/><b>Technology stack:</b> Java 8, Spring MVC, Hibernate, SQL, Maven, Java Server Pages (JSP), Java Server Faces (JSF), Primefaces, JSON, HTML / XHTML, CSS, Ajax, IntelliJ, SVN
+									After the internship, I have started to work full-time on the <b>Java 8 project with Spring</b>. As it being a fast growing company, we work to <b>deliver digital solutions</b> to the company <b>in agile fashion</b>. We are developing a <b>resource planning application</b> (similar to ERP) for the use of the company. I have developed modules that <b>every employee uses on a daily basis</b>. Also, worked on reports and charts modules for the use of management and finance.
+                                    <br/><b>Technology stack:</b> Java 8, Spring MVC, Hibernate, Maven, SQL, HeidiSQL,MariaDB, Bitbucket, IntelliJ, Jira, Confluence, JSP, JSF, Primefaces, JSON,HTML / XHTML, CSS
                                 </p></span>
                         </li>
                     </ul>
@@ -298,7 +302,7 @@
                 <div class="section-title">OPEN SOURCE PROJECTS</div>
                 <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
                 <br>
-                <p class="alt-title">I have 400+ commits in the 14 repositories <a href="https://github.com/hakaneroztekin">on GitHub</a>, since October 2018. <br> Below are the some of my favorites.</p>
+                <p class="alt-title">I have 1000+ commits in the 25 projects <a href="https://github.com/hakaneroztekin">on GitHub</a>. <br> Below are the some of my favorites.</p>
                 <div class="w3-container">
                     <span class="w3-third">
                         <span class="project-box">
