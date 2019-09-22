@@ -235,7 +235,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         <li class="li-brief"></li>
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Research Development Intern</p>
+                                <p class="title">Research Development Member (Part-time)</p>
                                 <p class="alt-title w3-hide-small">Medianova CDN, Jan 2018 - May 2018</p>
                                 <p class="alt-title w3-hide-medium w3-hide-large">Medianova CDN,<br>Jan 2018 - May 2018</p>
                             </span>
@@ -244,7 +244,13 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    As a member of the R&amp;D team, my main responsibility was to aid the team on the specific tasks. I firstly took an integral role in the project which we have developed <b>more efficient routing pathways</b> via <b>modifying shortest path algorithms</b>. Secondly, I researched about <b>computer communications</b>, <b>BGP</b>, <b>GPU computing</b>, <b>image and video compression</b>. Thirdly, I <b>educated myself</b> on <b>artificial intelligence</b>. Further, I was preparing <b>daily documentation</b> about my work. Finally, I did <b>a presentation</b> to the <b>colleagues</b>, <b>supervisors</b> and <b>to the CEO</b> about my work.
+                                    <ul>
+                                        <li>Medianova is a Content Delivery Network company and thus routing efficiency is prominent for the company's success. </li>
+                                        <li>Took an integral part where we have <b>developed more efficient routing pathways</b>b> by modifying <b>shortest path algorithms</b>. </li>
+                                        <li>Researched about computer communications, BGP and artificial intelligence.</li>
+                                        <li>Made a presentation to the colleagues, supervisors and CEO about my work.</li>
+                                        <li>Enjoyed learning, facing challenges, helping company and contributing to the society.</li>
+                                    </ul>
                                 </p></span>
                         </li>
                     </ul>
