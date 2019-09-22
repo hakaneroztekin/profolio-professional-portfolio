@@ -174,6 +174,12 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
 
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
+                                <ul>
+                                    <li>Acquired a very rare achievement; ranking the top 0.1% among 2 million students in the National University Entrance Exam as an ordinary high school graduate (düz lise in Turkish). </li>
+                                    <li>Founded Sınavı-Yerim blog and spent time to teach students how to study properly and conquer the exam.</li>
+                                    <li>Wrote 200+ articles, visited by students 2.5 million times. </li>
+                                    <li>As it being a hobby, currently learning JavaScript to implement user friendly functionalities for the website.</li>
+                                </ul>
                                 <p class="details-content w3-container">After achieving the <b>top 0.1%</b> tier in the National University Entrance Exam <b>as a regular high school</b> (“Düz Lise” in Turkish) graduate, I started sharing my strategies with the high school students. I published <b>more than 200 articles</b>, reached <b>2,5 million page views</b>, earned money through <b>AdSense</b>. Besides, I <b>founded a startup</b> with the same name that includes specialized effort on <b>articles</b>, <b>infographics</b>, <b>SEO customization</b>, <b>mailing</b>, <b>marketing</b> and <b>sales</b>. Since then, I am able to make money through the startup. Click <a href="https://sinaviyerim.com">here</a> to check out Sınavı Yerim.
                                 </p></span>
                         </li>
