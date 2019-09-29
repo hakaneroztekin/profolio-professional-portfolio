@@ -533,7 +533,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                 <div span="w3-row">
                     <div span="w3-col">
                         <a href="https://www.facebook.com/hakan.eroztekin.3">
-                            <div class="w3-circle w3-center" style="width: 10%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left;">
+                            <div class="w3-circle w3-center" style="width: 8%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left;">
                                 <span style="font-size: 11px; color:white">
                                     <i class="fab fa-facebook-f"></i>
                                 </span>
@@ -543,7 +543,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                     </div>
                     <div span="w3-col">
                         <a href="https://www.linkedin.com/in/hakaneroztekin">
-                            <div class="w3-circle w3-center w3-white" style="width: 10%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left; margin-left: 4%;">
+                            <div class="w3-circle w3-center w3-white" style="width: 8%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left; margin-left: 4%;">
                                 <strong><span style="font-size: 11px; color:#0077b5">
                                     <i class="fab fa-linkedin-in"></i>
                                     </span></strong>
@@ -551,21 +551,37 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             </div>
                         </a>
                     </div>
+                    <div span="w3-col">
+                        <a href="https://github.com/hakaneroztekin">
+                            <div class="w3-center" style="width: 8%; border:0; float:left; margin-left: 4%; margin-top: -1.5%">
+                                <strong><span style="font-size: 24px; color:#ffffff">
+                                    <i class="fab fa-github"></i>
+                                    </span></strong>
+                            </div>
+                        </a>
+                    </div>
+                    <div span="w3-col">
+                        <a href="https://github.com/hakaneroztekin">
+                            <div class="w3-center" style="width: 8%; border:0; float:left; margin-left: 4%; margin-top: -1.5%">
+                                <strong><span style="font-size: 24px; color:#ffffff">
+                                    <i class="fab fa-github"></i>
+                                    </span></strong>
+                            </div>
+                        </a>
+                    </div>
                 </div>
                 <a href="#top">
                     <div class="w3-circle w3-center w3-right" style="width: 10%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left;">
                         <span style="font-size: 11px;">
-
                             <i class="fas fa-arrow-up" style="color:white;"></i>
-
                         </span>
-
                     </div>
                 </a>
             </span>
 
             <span class="w3-half" style="text-align: center;">
-                Feel free to use this theme in your websites. <br> <a href="https://github.com/hakaneroztekin/profolio">Here is the code »</a>
+                Developed by Hakan Eroztekin @ 2019 <br/>
+                Feel free to <a href="https://github.com/hakaneroztekin/profolio"> use this theme free »</a>
             </span>
 
         </div>
@@ -575,7 +591,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                 <div span="w3-row">
                     <div span="w3-col">
                         <a href="https://www.facebook.com/hakan.eroztekin.3">
-                            <div class="w3-circle w3-center" style="width: 13%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left;">
+                            <div class="w3-circle w3-center" style="width: 13%; height: auto; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left;">
                                 <span style="font-size: 11px; color:white">
                                     <i class="fab fa-facebook-f"></i>
                                 </span>
@@ -585,14 +601,15 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                     </div>
                     <div span="w3-col">
                         <a href="https://www.linkedin.com/in/hakaneroztekin">
-                            <div class="w3-circle w3-center w3-white" style="width: 13%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left; margin-left: 4%;">
+                            <div class="w3-circle w3-center w3-white" style="width: 13%; height: auto; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left; margin-left: 4%;">
                                 <strong><span style="font-size: 11px; color:#0077b5">
                                     <i class="fab fa-linkedin-in"></i>
                                     </span></strong>
 
                             </div>
                         </a>
-                    </div><div span="w3-col">
+                    </div>
+                    <div span="w3-col">
                         <a href="https://github.com/hakaneroztekin">
                             <div class="w3-center" style="width: 13%; border:0; float:left; margin-left: 4%; margin-top: -3%;">
                                 <strong><span style="font-size: 25px; color:#ffffff">
@@ -605,7 +622,8 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
             </span>
 
             <span class="w3-half" style="text-align: center;">
-                Feel free to use this theme in your websites. <br> <a href="https://github.com/hakaneroztekin/profolio">Here is the code »</a>
+                Developed by Hakan Eroztekin @ 2019 <br/>
+                Feel free to <a href="https://github.com/hakaneroztekin/profolio"> use this theme free »</a>
             </span>
 
             <span class="w3-quarter">
