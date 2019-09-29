@@ -22,7 +22,7 @@
             <div class="wrapper">
                 <div class="banner-title">Hakan Eröztekin
                 </div>
-                                <div class="w3-hide-small">
+                <div class="w3-hide-small">
                     <p>Founder, Full Stack Java Engineer, AI Enthusiast</p>
                 </div>
                 <div class="w3-hide-large w3-hide-medium">
@@ -31,7 +31,7 @@
                 <br>
                 <a href="/wp-content/uploads/2019/10/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
                 <a href="#about"><div class="white-button">EXPLORE MORE</div></a>
-
+                <br/>
                 <br><br>
             </div>
         </div>
@@ -141,6 +141,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <div class="title">EXPERIENCE</div>  
                             <div class="title-mobile w3-hide-medium w3-hide-large">EXPERIENCE</div>       
                         </li>
+                        
                         <li class="li-details">
                             <span class="titles">
                                 <p class="title">Full Stack Java Software Engineer</p>
@@ -163,6 +164,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                     </ul>
                     <ul>
                         <li class="li-brief"></li>
+                        
                         <li class="li-details">
                             <span class="titles">
                                 <p class="title">Founder</p>
@@ -561,10 +563,10 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         </a>
                     </div>
                     <div span="w3-col">
-                        <a href="https://github.com/hakaneroztekin">
+                        <a href="https://medium.com/@hakaneroztekin">
                             <div class="w3-center" style="width: 8%; border:0; float:left; margin-left: 4%; margin-top: -1.5%">
-                                <strong><span style="font-size: 24px; color:#ffffff">
-                                    <i class="fab fa-github"></i>
+                                <strong><span class="w3-center" style="font-size: 24px; color:#ffffff">
+                                    <i class="fab fa-medium"></i>
                                     </span></strong>
                             </div>
                         </a>
@@ -614,6 +616,15 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <div class="w3-center" style="width: 13%; border:0; float:left; margin-left: 4%; margin-top: -3%;">
                                 <strong><span style="font-size: 25px; color:#ffffff">
                                     <i class="fab fa-github"></i>
+                                    </span></strong>
+                            </div>
+                        </a>
+                    </div>
+                    <div span="w3-col">
+                        <a href="https://medium.com/@hakaneroztekin">
+                            <div class="w3-center" style="width: 13%; border:0; float:left; margin-left: 4%; margin-top: -3%;">
+                                <strong><span class="w3-center" style="font-size: 24px; color:#ffffff">
+                                    <i class="fab fa-medium"></i>
                                     </span></strong>
                             </div>
                         </a>
