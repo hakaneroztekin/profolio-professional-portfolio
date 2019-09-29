@@ -81,7 +81,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         <div class="progress">
                             <div class="progress-bar bg-dark" style="width:90%"></div>
                         </div></li>
-                    <li>JavaScript - learning!
+                    <li>JavaScript & React - learning!
                         <div class="progress">
                             <div class="progress-bar bg-dark" style="width:50%"></div>
                         </div></li>
@@ -152,12 +152,11 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    <ul>
-                                        <li>Developing a <b>resource planning application</b> (similar to ERP - Enterprise Resource Planning) for digitalization of the company.</li>
-                                        <li>Developed <b>timesheet, capacity management, chart and excel modules</b> used by the management and employees on a daily basis.</li>
-                                        <li>Working <b>full-time</b> as a <b>Full Stack Java Software Engineer</b> in an agile team since day 1.</li>
-                                        <li><b>Technology stack:</b> Java 8, Spring Boot, Hibernate & JPA, SQL, MariaDB, Maven, MVC Architecture, JSF Primefaces & XHTML & CSS, Bitbucket, IntelliJ, Jira, Confluence</li>
-                                    </ul>
+                                        • Developing a <b>resource planning application</b> (similar to ERP - Enterprise Resource Planning) for digitalization of the company.<br/>
+                                        • Developed <b>timesheet, capacity management, chart and excel modules</b> used by the management and employees on a daily basis.<br/>
+                                        • Working <b>full-time</b> as a <b>Full Stack Java Software Engineer</b> in an agile team since day 1.<br/>
+                                        • <b>Technology stack:</b> Java 8, Spring Boot, Hibernate & JPA, SQL, MariaDB, Maven, MVC Architecture, JSF Primefaces & XHTML & CSS, Bitbucket, IntelliJ, Jira, Confluence<br/>
+                                    
                                 </p>
                         </span>
                         </li>
@@ -175,13 +174,12 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                <ul>
-                                    <li>Acquired <b>a very rare achievement</b>; ranking the <b>top 0.1% among 2 million students</b> in the National University Entrance Exam as an ordinary high school graduate (düz lise in Turkish). </li>
-                                    <li>Founded Sınavı-Yerim blog and spent time to teach students how to study properly and conquer the exam.</li>
-                                    <li>Wrote <b>200+ articles</b>, visited by students <b>2.5 million times</b>. </li>
-                                    <li>As it being a hobby, currently learning <b>JavaScript</b> to implement <b>user friendly functionalities</b> for the website.</li>
-                                </ul>
-                                </p></span>
+                                    • Acquired <b>a very rare achievement</b>; ranking the <b>top 0.1% among 2 million students</b> in the National University Entrance Exam as an ordinary high school graduate (düz lise in Turkish). <br/>
+                                    • Founded Sınavı-Yerim blog and spent time to teach students how to study properly and conquer the exam.<br/>
+                                    • Wrote <b>200+ articles</b>, visited by students <b>2.5 million times</b>. <br/>
+                                    • As it being a hobby, currently learning <b>JavaScript</b> to implement <b>user friendly functionalities</b> for the website.<br/>
+                                </p>
+                            </span>
                         </li>
                     </ul>
                     <ul>
@@ -197,13 +195,12 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    <ul>
-                                        <li>As a fast growing company, a faster way to elect best candidates is needed.</li>
-                                        <li>Developed a <b>Java 8</b> based <b>RESTful API</b> with <b>Spring</b> for the HR. It can be used to <b>create</b> and <b>send tests</b> to candidates. </li>
-                                        <li><b>Helped newcomer interns</b> and <b>worked together with the front end</b> for the integration. Also, prepared an <b>extensive documentation</b>. </li>
-                                        <li>The internship was an extraordinary experience that contributed to <b>shape my future as a Full Stack Java Software Engineer</b>.</li>
-                                        <li><b>Technology stack:</b> Java 8, Spring (Boot, MVC, Security, Batch), Hibernate, JPA, MariaDB, SQL / HeidiSQL, RESTful Web Services, Maven, Lombok, Quartz, JSON, IntelliJ, Swagger UI, Postman, GitHub, Sourcetree</li>
-                                    </ul>
+									• As a fast growing company, a faster way to elect best candidates was needed. <br/>
+									• Developed a <b>Java 8</b> based <b>RESTful API</b> with <b>Spring</b> for the HR. It can be used to <b>create</b> and <b>send tests</b> to candidates. <br/>
+									• <b>Helped newcomer interns</b> and <b>worked together with the front end</b> for the integration. Also, prepared an <b>extensive documentation</b>.<br/> 
+									• The internship was an extraordinary experience that contributed to <b>shape my future as a Full Stack Java Software Engineer</b>.<br/>
+                                    
+									• <b>Technology stack:</b> Java 8, Spring (Boot, MVC, Security, Batch), Hibernate, JPA, MariaDB, SQL / HeidiSQL, RESTful Web Services, Maven, Lombok, Quartz, JSON, IntelliJ, Swagger UI, Postman, GitHub, Sourcetree
                                 </p></span>
                         </li>
                     </ul>
@@ -221,14 +218,13 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    <ul>
-                                        <li>Joined a research project to <b>develop an Android application</b>. In the project, knee movements are measured with elastic sensors and the <b>Android application</b> shows <b>real-time visual information</b> about knee movements.</li>
-                                        <li>After the internship, developed <b>machine learning</b> part of the project as a graduation project. The <b>AI classifies</b> movements as walking, running and squats. </li>
-                                        <li><b>Self-learned</b> all the technologies and tools needed for the projects</li>
-                                        <li>Demo videos for both of the projects are accessible at the GitHub profile.</li>
-                                        <li><b>Technology stack:</b> Java, Android Studio, Arduino, JavaScript & Socket.io, Gradle, Python (keras, tensorflow, sklearn, matplotlib), Anaconda, C/C++</li>
-                                    </ul>
-                                </p></span>
+                                    • Joined a research project to <b>develop an Android application</b>. In the project, knee movements are measured with elastic sensors and the <b>Android application</b> shows <b>real-time visual information</b> about knee movements.<br/>
+                                    • After the internship, developed <b>machine learning</b> part of the project as a graduation project. The <b>AI classifies</b> movements as walking, running and squats.<br/>
+                                    • <b>Self-learned</b> all the technologies and tools needed for the projects<br/>
+                                    • Demo videos for both of the projects are accessible at the GitHub profile.<br/>
+                                    • <b>Technology stack:</b> Java, Android Studio, Arduino, JavaScript & Socket.io, Gradle, Python (keras, tensorflow, sklearn, matplotlib), Anaconda, C/C++<br/>
+                                </p>
+                            </span>
                         </li>
                     </ul>  
                     <ul>
@@ -244,14 +240,13 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    <ul>
-                                        <li>Medianova is a Content Delivery Network company and thus routing efficiency is prominent for the company's success. </li>
-                                        <li>Took an integral part where we have <b>developed more efficient routing pathways</b>b> by modifying <b>shortest path algorithms</b>. </li>
-                                        <li>Researched about computer communications, BGP and artificial intelligence.</li>
-                                        <li>Made a presentation to the colleagues, supervisors and CEO about my work.</li>
-                                        <li>Enjoyed learning, facing challenges, helping company and contributing to the society.</li>
-                                    </ul>
-                                </p></span>
+                                    • Medianova is a Content Delivery Network company and thus routing efficiency is prominent for the company's success. <br/>
+                                    • Took an integral part where we have <b>developed more efficient routing pathways</b> by modifying <b>shortest path algorithms</b>. <br/>
+                                    • Researched about computer communications, BGP and artificial intelligence.<br/>
+                                    • Made a presentation to the colleagues, supervisors and CEO about my work.<br/>
+                                    • Enjoyed learning, facing challenges, helping company and contributing to the society.<br/>
+                                </p>
+                            </span>
                         </li>
                     </ul>
                     <ul>
@@ -266,13 +261,12 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                <ul>
-                                    <li>As a <b>team lead of 20+ students</b>, responsibility was <b>organization</b> of the meetings, <b>conflict management</b>, documentation and <b>attending board meetings</b>.</li>
-                                    <li>Even though most of the R&amp;D members were new to the club, after my leading period, most of them <b>continued working voluntarily</b>, took responsibility in the club and even become the leader of the club.</li>
-                                    <li>Was a remarkable experience to improve <b>communication</b> and <b>leading skills</b>.</li>
-                                    <li>Besides, together with the entrepreneurship education, these were the driving force to found the startup to help high school students, Sınavı-Yerim.</li>
-                                </ul>
-                                </p></span>
+                                • As a <b>team lead of 20+ students</b>, responsibility was <b>organization</b> of the meetings, <b>conflict management</b>, documentation and <b>attending board meetings</b>.<br/>
+                                • Even though most of the R&amp;D members were new to the club, after my leading period, most of them <b>continued working voluntarily</b>, took responsibility in the club and even become the leader of the club.<br/>
+                                • Was a remarkable experience to improve <b>communication</b> and <b>leading skills</b>.<br/>
+                                • Besides, together with the entrepreneurship education, these were the driving force to found the startup to help high school students, Sınavı-Yerim.<br/>
+                                </p>
+                            </span>
                         </li>
                     </ul>
                     <ul>
@@ -287,10 +281,8 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    <ul>
-                                        <li>Gathered regularly to <b>find creative ideas</b> to <b>metamorphose the structure</b> of the club. </li>
-                                        <li>Discussed the solutions to the problems faced by the club, and how to educate ourselves and the other members of the club for hours which led us to be familiarized with the notion of <b>entrepreneurship</b> over time. </li>
-                                    </ul>
+                                    • Gathered regularly to <b>find creative ideas</b> to <b>metamorphose the structure</b> of the club. <br/>
+                                    • Discussed the solutions to the problems faced by the club, and how to educate ourselves and the other members of the club for hours which led us to be familiarized with the notion of <b>entrepreneurship</b> over time. <br/>
                                 </p></span>
                         </li>
                     </ul>
@@ -304,7 +296,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                 <div class="section-title">OPEN SOURCE PROJECTS</div>
                 <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
                 <br>
-                <p class="alt-title">I have 1250+ commits in the 30 projects <a href="https://github.com/hakaneroztekin">on GitHub</a>.<br> Code of this site is open-source too :) Access here: <a href="https://github.com/hakaneroztekin/profolio-professional-portfolio">Profolio</a>. 
+                <p class="alt-title">I have 1350+ commits in the 30+ projects <a href="https://github.com/hakaneroztekin">on GitHub</a>.<br> Code of this site is open-source too :) Access here: <a href="https://github.com/hakaneroztekin/profolio-professional-portfolio">Profolio</a>. 
                     <br> Below are the some of my favorites.</p> 
                 <div class="w3-container">
                     <span class="w3-third">
