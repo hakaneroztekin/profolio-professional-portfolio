@@ -26,7 +26,7 @@
                     <p>Founder, Full Stack Java Engineer, AI Enthusiast</p>
                 </div>
                 <div class="w3-hide-large w3-hide-medium">
-                    <p>Founder,<br> Full Stack Java Engineer<br> AI Enthusiast</p>
+                    <p>Founder,<br> Full Stack <br> Java Engineer,<br>AI Enthusiast</p>
                 </div>
                 <br>
                 <a href="/wp-content/uploads/2019/10/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
@@ -45,61 +45,10 @@
             <a name="about"></a> <!--anchor link-->
             <div class="section-title">ABOUT</div>
             <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split"><br>
-            As a <b>Full Stack Java Software Engineer</b> a <b>Computer Engineering</b> graduate from
-<b>Istanbul Technical University</b> who ranked <b>top 0.1% among 2 million students</b> in
-the National University Entrance Exam, I aspire to continue <b>developing my skills</b>
-and <b>lead projects</b> in the future. I am eager to work for your company <b>to make it
-			more successful, to make our customers happier</b>.
+            <b>Full Stack Java Engineer</b> with ability to follow established procedures and work in a challenging and responsibility-driven environment under little to no supervision, aspire to make your company more successful and make your customers happier.
             <br><br>
             <a href="/wp-content/uploads/2019/10/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
             <br>
-        </section>
-
-        <section id="skills">
-            <div class="section-title">MY SKILLS</div>
-            <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
-
-            <div class="w3-responsive">
-                <ul class="skills-table">
-                    <li>Java 8
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:90%"></div></div></li>
-                    <li>Spring Framework
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:85%"></div>
-                        </div></li>
-                    <li>SQL, MySQL, PostgreSQL
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:85%"></div>
-                        </div></li>
-                </ul>
-                <ul class="skills-table">
-                    <li>JSF Primefaces (Java Frontend)
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:95%"></div></div></li>
-                    <li>HTML / CSS
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:90%"></div>
-                        </div></li>
-                    <li>JavaScript & React - learning!
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:50%"></div>
-                        </div></li>
-                </ul>
-                <ul class="skills-table">
-                    <li>Python & AI
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:85%"></div></div></li>
-                    <li>Jira / Confluence
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:90%"></div>
-                        </div></li>
-                    <li>Github / Bitbucket
-                        <div class="progress">
-                            <div class="progress-bar bg-dark" style="width:90%"></div>
-                        </div></li>
-                </ul>
-            </div>   
         </section>
 
         <section id="education-experience">
@@ -123,18 +72,13 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         <li class="li-details">
                             <span class="titles">
                                 <p class="title">Computer Engineering (B.Sc.) </p>
-                                <p class="alt-title w3-hide-small">Istanbul Technical University, 2013 - 2019 June</p>
-                                <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>2013 - 2019 June</p>
-
+                                <p class="alt-title w3-hide-small">Istanbul Technical University, 2019</p>
+                                <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>2019</p>
                             </span>
-                            <span class="show-details-button" tabindex="0">Show Details</span>
-
-                            <span class="details">
-                                <span class="hide-details-button" tabindex="0">Hide Details</span>
-                                <p class="details-content w3-container">After I ranked <b>top 0.1% among 2 million participants</b> in the National University Entrance Exam in Turkey, I started my education at ITU. Graduated by the June 2019.</p></span>
-                        </li>
                     </ul>
+                    
                     <br>
+                    
                     <ul>
                         <li class="li-brief">
                             <img src="wp-content/themes/portfolio/images/experience-bg.png">
@@ -144,7 +88,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Full Stack Java Software Engineer</p>
+                                <p class="title">Full Stack Java Engineer</p>
                                 <p class="alt-title w3-hide-small">adesso Turkey, March 2019 - Present</p>
                                 <p class="alt-title w3-hide-medium w3-hide-large">adesso Turkey,<br>March 2019 - Present</p>
                             </span>
@@ -153,13 +97,36 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                        • Developing a <b>resource planning application</b> (similar to ERP - Enterprise Resource Planning) for digitalization of the company.<br/>
-                                        • Developed <b>timesheet, capacity management, chart and excel modules</b> used by the management and employees on a daily basis.<br/>
-                                        • Working <b>full-time</b> as a <b>Full Stack Java Software Engineer</b> in an agile team since day 1.<br/>
-                                        • <b>Technology stack:</b> Java 8, Spring Boot, Hibernate & JPA, SQL, MariaDB, Maven, MVC Architecture, JSF Primefaces & XHTML & CSS, Bitbucket, IntelliJ, Jira, Confluence<br/>
-                                    
+                                        • Developing an <b>enterprise  level resource  planning  application</b> for the company to fulfill all the operational needs without using an external product.
+                                        <br/>
+                                        • Established services for employees and managers used on a daily basis.
+                                        <br/>
+                                        • Reduced costs, increased operational productivity and ease of management.
+                                        <br/>
+                                        • Technology stack: <b>Java 8, Spring Boot, Maven, Hibernate, JPA, SQL, MariaDB, JSF, Primefaces, XHTML, CSS, Bitbucket, IntelliJ, Jira</b>
+                                        <br/>
                                 </p>
                         </span>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="li-brief"></li>
+                        <li class="li-details">
+                            <span class="titles">
+                                <p class="title">Java Software Engineer Intern</p>
+                                <p class="alt-title w3-hide-small">adesso Turkey, 2018 July – 2018 Aug</p>
+                                <p class="alt-title w3-hide-medium w3-hide-large">adesso Turkey,<br>2018 July – 2018 Aug</p>
+                            </span>
+                            <span class="show-details-button" tabindex="0">Show Details</span>
+
+                            <span class="details">
+                                <span class="hide-details-button" tabindex="0">Hide Details</span>
+                                <p class="details-content w3-container">
+									• Developed a Java 8 based RESTful API with Spring for the human resources. <br/>
+									• The applicationcan be used to create and send tests to candidates. 
+                                    <br/>
+									• Technology stack: <b>Java 8, Spring (Boot, MVC, Security, Batch), Hibernate, JPA, MariaDB, SQL, RESTful Web Services, Maven, HeidiSQL, Quartz, JSON, IntelliJ, SwaggerUI, Postman, GitHub, Sourcetree</b>
+                                </p></span>
                         </li>
                     </ul>
                     <ul>
@@ -176,37 +143,16 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    • Acquired <b>a very rare achievement</b>; ranking the <b>top 0.1% among 2 million students</b> in the National University Entrance Exam as an ordinary high school graduate (düz lise in Turkish). <br/>
-                                    • Founded Sınavı-Yerim blog and spent time to teach students how to study properly and conquer the exam.<br/>
-                                    • Wrote <b>200+ articles</b>, visited by students <b>2.5 million times</b>. <br/>
-                                    • As it being a hobby, currently learning <b>JavaScript</b> to implement <b>user friendly functionalities</b> for the website.<br/>
+                                    • After ranking the <b>top 0.1%</b> among <b>2 million students</b> in the National University Entrance Exam, started to share my strategies with the high school students. 
+                                    <br/>
+                                    • Published <b>200+ articles</b>,read <b>2.5 million</b> times.
+                                    <br/>
+                                    • Renewed the blog with <b>Java 8 Spring (Boot, MVC) RESTful API</b>, deployed to <b>AWS (EBS, RDS, Cloudfront)</b> which serves for <b>React frontend</b>. Both WordPress and React app are integrated with <b>Auth0 Single Sign On</b>.
+                                    <br/>
                                 </p>
                             </span>
                         </li>
                     </ul>
-                    <ul>
-                        <li class="li-brief"></li>
-                        <li class="li-details">
-                            <span class="titles">
-                                <p class="title">Java Software Engineer Intern</p>
-                                <p class="alt-title w3-hide-small">adesso Turkey, 2018 July – 2018 Aug</p>
-                                <p class="alt-title w3-hide-medium w3-hide-large">adesso Turkey,<br>2018 July – 2018 Aug</p>
-                            </span>
-                            <span class="show-details-button" tabindex="0">Show Details</span>
-
-                            <span class="details">
-                                <span class="hide-details-button" tabindex="0">Hide Details</span>
-                                <p class="details-content w3-container">
-									• As a fast growing company, a faster way to elect best candidates was needed. <br/>
-									• Developed a <b>Java 8</b> based <b>RESTful API</b> with <b>Spring</b> for the HR. It can be used to <b>create</b> and <b>send tests</b> to candidates. <br/>
-									• <b>Helped newcomer interns</b> and <b>worked together with the front end</b> for the integration. Also, prepared an <b>extensive documentation</b>.<br/> 
-									• The internship was an extraordinary experience that contributed to <b>shape my future as a Full Stack Java Software Engineer</b>.<br/>
-                                    
-									• <b>Technology stack:</b> Java 8, Spring (Boot, MVC, Security, Batch), Hibernate, JPA, MariaDB, SQL / HeidiSQL, RESTful Web Services, Maven, Lombok, Quartz, JSON, IntelliJ, Swagger UI, Postman, GitHub, Sourcetree
-                                </p></span>
-                        </li>
-                    </ul>
-
                     <ul>
                         <li class="li-brief"></li>
                         <li class="li-details">
@@ -220,11 +166,12 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    • Joined a research project to <b>develop an Android application</b>. In the project, knee movements are measured with elastic sensors and the <b>Android application</b> shows <b>real-time visual information</b> about knee movements.<br/>
-                                    • After the internship, developed <b>machine learning</b> part of the project as a graduation project. The <b>AI classifies</b> movements as walking, running and squats.<br/>
-                                    • <b>Self-learned</b> all the technologies and tools needed for the projects<br/>
-                                    • Demo videos for both of the projects are accessible at the GitHub profile.<br/>
-                                    • <b>Technology stack:</b> Java, Android Studio, Arduino, JavaScript & Socket.io, Gradle, Python (keras, tensorflow, sklearn, matplotlib), Anaconda, C/C++<br/>
+                                    • Developed   an   Android   application with <b>Java</b> that provides real-time measurement  graphics for knee  movements. Then,  as  a  graduation  project, developed movement classification app with <b>machine learning</b>.
+                                    <br/>
+                                    • Self-learned all the technologies and tools needed for the projects. 
+                                    <br/>
+                                    • Technology stack: <b>Java, Python (keras,  tensorflow,  sklearn),  ML  (Random Forest, LSTM), Android Studio, Arduino, Socket.io, Gradle, Anaconda, C++</b>
+                                    <br/>
                                 </p>
                             </span>
                         </li>
@@ -233,7 +180,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                         <li class="li-brief"></li>
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Research Development Member (Part-time)</p>
+                                <p class="title">Research Development Member Intern</p>
                                 <p class="alt-title w3-hide-small">Medianova CDN, Jan 2018 - May 2018</p>
                                 <p class="alt-title w3-hide-medium w3-hide-large">Medianova CDN,<br>Jan 2018 - May 2018</p>
                             </span>
@@ -242,11 +189,10 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                    • Medianova is a Content Delivery Network company and thus routing efficiency is prominent for the company's success. <br/>
-                                    • Took an integral part where we have <b>developed more efficient routing pathways</b> by modifying <b>shortest path algorithms</b>. <br/>
-                                    • Researched about computer communications, BGP and artificial intelligence.<br/>
-                                    • Made a presentation to the colleagues, supervisors and CEO about my work.<br/>
-                                    • Enjoyed learning, facing challenges, helping company and contributing to the society.<br/>
+                                    • Took an integral part at the CDN company where we have developed more efficient routing pathways by modifying shortest path algorithms. 
+                                    <br/>
+                                    • Made a presentation to the colleagues, supervisors and CEO about my work.
+                                    <br/>
                                 </p>
                             </span>
                         </li>
@@ -263,10 +209,7 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                             <span class="details">
                                 <span class="hide-details-button" tabindex="0">Hide Details</span>
                                 <p class="details-content w3-container">
-                                • As a <b>team lead of 20+ students</b>, responsibility was <b>organization</b> of the meetings, <b>conflict management</b>, documentation and <b>attending board meetings</b>.<br/>
-                                • Even though most of the R&amp;D members were new to the club, after my leading period, most of them <b>continued working voluntarily</b>, took responsibility in the club and even become the leader of the club.<br/>
-                                • Was a remarkable experience to improve <b>communication</b> and <b>leading skills</b>.<br/>
-                                • Besides, together with the entrepreneurship education, these were the driving force to found the startup to help high school students, Sınavı-Yerim.<br/>
+                                • As a team lead of 20+ students,responsibility was organization of the meetings, conflict management, documentation and attending board meetings.<br/>
                                 </p>
                             </span>
                         </li>
@@ -278,14 +221,6 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                                 <p class="title">Research Development Team Member</p>
                                 <p class="alt-title">ITU Entrepreneurship Club, Jan 2016 – Jan 2017</p>
                             </span>
-                            <span class="show-details-button" tabindex="0">Show Details</span>
-
-                            <span class="details">
-                                <span class="hide-details-button" tabindex="0">Hide Details</span>
-                                <p class="details-content w3-container">
-                                    • Gathered regularly to <b>find creative ideas</b> to <b>metamorphose the structure</b> of the club. <br/>
-                                    • Discussed the solutions to the problems faced by the club, and how to educate ourselves and the other members of the club for hours which led us to be familiarized with the notion of <b>entrepreneurship</b> over time. <br/>
-                                </p></span>
                         </li>
                     </ul>
                 </div>
@@ -295,77 +230,72 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
         <section id="projects">
             <a name="projects"></a> <!--anchor link-->
             <div class="wrapper">
-                <div class="section-title">OPEN SOURCE PROJECTS</div>
+                <div class="section-title">PROJECTS</div>
                 <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
                 <br>
-                <p class="alt-title">I have 1350+ commits in the 30+ projects <a href="https://github.com/hakaneroztekin">on GitHub</a>.<br> Code of this site is open-source too :) Access here: <a href="https://github.com/hakaneroztekin/profolio-professional-portfolio">Profolio</a>. 
-                    <br> Below are the some of my favorites.</p> 
+                <p class="alt-title">I have 1400+ commits in the 30+ projects <a href="https://github.com/hakaneroztekin">on GitHub</a>.<br> This portfolio page is 100% open source too! Access here: <a href="https://github.com/hakaneroztekin/profolio-professional-portfolio">Profolio</a>. 
+                <br>
+                Below are the some of my favorites.</p> 
                 <div class="w3-container">
                     <span class="w3-third">
                         <span class="project-box">
                             <div class="w3-display-container">
-                                <a href="https://github.com/hakaneroztekin/course-register-system">
-
+                                <a href="https://sinaviyerim.com">
                                     <div class="w3-hide-small">
-                                        <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Course Register System">
+                                        <img src="wp-content/themes/portfolio/images/sinavi-yerim.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="A Guide for Successful People">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Course Register System »</div>    
+                                            <div class="w3-text-green">Sınavı-Yerim Blog »</div>    
                                         </div></div>
 
                                     <div class="w3-hide-medium w3-hide-large">
-                                        <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Course Register System">
+                                        <img src="wp-content/themes/portfolio/images/sinavi-yerim.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="A Guide for Successful People">
                                         <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Course Register System »</div>    
+                                            <div class="w3-text-green">Sınavı-Yerim Blog »</div>    
                                         </div>
                                     </div>
 
                                 </a>
                             </div>
-
-
                         </span>
                     </span>
                     <span class="w3-third">
-
-                        <span class="project-box">
-
-                            <div class="w3-display-container">
-                                <a href="https://github.com/hakaneroztekin/intellect">
-
-                                    <div class="w3-hide-small">
-                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Intellect Database">
-                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Intellect Database »</div>    
-                                        </div></div>
-
-                                    <div class="w3-hide-medium w3-hide-large">
-                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Intellect Database Project">
-                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Intellect Database »</div>    
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-
-                        </span>
-                    </span>
-
-                    <span class="w3-third">
                         <span class="project-box">
                             <div class="w3-display-container">
-                                <a href="https://github.com/hakaneroztekin/top-rated-companies-in-istanbul">
+                                <a href="https://github.com/hakaneroztekin/glassdoor-top-rated-scraper-javascript">
 
                                     <div class="w3-hide-small">
                                         <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Best Companies in Istanbul">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Top Rated Companies in Istanbul »</div>    
+                                            <div class="w3-text-green">Top Rated Companies in Istanbul »</div>    
                                         </div></div>
 
                                     <div class="w3-hide-medium w3-hide-large">
                                         <img src="wp-content/themes/portfolio/images/project-2.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Best Companies In Istanbul">
                                         <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-white">Top Rated Companies In Istanbul »</div>    
+                                            <div class="w3-text-green">Top Rated Companies In Istanbul »</div>    
+                                        </div>
+                                    </div>
+
+                                </a>
+                            </div>
+
+
+                        </span>
+                    </span>
+                    <span class="w3-third">
+                        <span class="project-box">
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/course-register-system">
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Course Register System">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
+                                            <div class="w3-text-green">Course Register System »</div>    
+                                        </div></div>
+
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/project-1.jpg" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Course Register System">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
+                                            <div class="w3-text-green">Course Register System »</div>    
                                         </div>
                                     </div>
 
@@ -385,64 +315,58 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                                     <div class="w3-hide-small">
                                         <img src="wp-content/themes/portfolio/images/js-todo-app.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="JavaScript To-Do App">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-black">JavaScript To-Do »</div>    
+                                            <div class="w3-text-green">JavaScript To-Do »</div>    
                                         </div></div>
 
                                     <div class="w3-hide-medium w3-hide-large">
                                         <img src="wp-content/themes/portfolio/images/js-todo-app.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="JavaScript To-Do App">
                                         <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-black">JavaScript To-Do »</div>    
+                                            <div class="w3-text-green">JavaScript To-Do »</div>    
                                         </div>
                                     </div>
 
                                 </a>
                             </div>
-
-
                         </span>
                     </span>
                     <span class="w3-third">
-
                         <span class="project-box">
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/intellect">
 
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Intellect Database">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
+                                            <div class="w3-text-green">Intellect Database »</div>    
+                                        </div></div>
+
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/homepage.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Intellect Database Project">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
+                                            <div class="w3-text-green">Intellect Database »</div>    
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </span>
+                    </span>
+                    <span class="w3-third">
+                        <span class="project-box">
                             <div class="w3-display-container">
                                 <a href="https://github.com/hakaneroztekin/runners-machine-learning">
 
                                     <div class="w3-hide-small">
                                         <img src="wp-content/themes/portfolio/images/runners-machine-learning.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Runner's Machine Learning">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-black">Runner's Machine Learning »</div>    
+                                            <div class="w3-text-green">Runner's Machine Learning »</div>    
                                         </div></div>
 
                                     <div class="w3-hide-medium w3-hide-large">
                                         <img src="wp-content/themes/portfolio/images/runners-machine-learning.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Runner's Machine Learning">
                                         <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-black">Runner's Machine Learning »</div>    
+                                            <div class="w3-text-green">Runner's Machine Learning »</div>    
                                         </div>
                                     </div>
-                                </a>
-                            </div>
-                        </span>
-                    </span>
-
-                    <span class="w3-third">
-                        <span class="project-box">
-                            <div class="w3-display-container">
-                                <a href="https://github.com/hakaneroztekin/runners-android-app">
-
-                                    <div class="w3-hide-small">
-                                        <img src="wp-content/themes/portfolio/images/runners-android-app.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Runner's Android App">
-                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-black">Runner's Android App »</div>    
-                                        </div></div>
-
-                                    <div class="w3-hide-medium w3-hide-large">
-                                        <img src="wp-content/themes/portfolio/images/runners-android-app.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Runner's Android App">
-                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-black">Runner's Android App »</div>    
-                                        </div>
-                                    </div>
-
                                 </a>
                             </div>
                         </span>
@@ -450,6 +374,27 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                 </div>
                 
                 <div class="w3-container">
+                    <span class="w3-third">
+                        <span class="project-box">
+                            <div class="w3-display-container">
+                                <a href="https://github.com/hakaneroztekin/runners-android-app">
+                                    <div class="w3-hide-small">
+                                        <img src="wp-content/themes/portfolio/images/runners-android-app.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Runner's Android App">
+                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
+                                            <div class="w3-text-green">Runner's Android App »</div>    
+                                        </div></div>
+
+                                    <div class="w3-hide-medium w3-hide-large">
+                                        <img src="wp-content/themes/portfolio/images/runners-android-app.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Runner's Android App">
+                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
+                                            <div class="w3-text-green">Runner's Android App »</div>    
+                                        </div>
+                                    </div>
+
+                                </a>
+                            </div>
+                        </span>
+                    </span>
                     <span class="w3-third">
                         <span class="project-box">
                             <div class="w3-display-container">
@@ -483,38 +428,15 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                                     <div class="w3-hide-small">
                                         <img src="wp-content/themes/portfolio/images/yok-scraper.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Python Web Scraper">
                                         <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-black">Python Web Scraper »</div>    
+                                            <div class="w3-text-green">Python Web Scraper »</div>    
                                         </div></div>
 
                                     <div class="w3-hide-medium w3-hide-large">
                                         <img src="wp-content/themes/portfolio/images/yok-scraper.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Python Web Scraper">
                                         <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-black">Python Web Scraper »</div>    
+                                            <div class="w3-text-green">Python Web Scraper »</div>    
                                         </div>
                                     </div>
-                                </a>
-                            </div>
-                        </span>
-                    </span>
-
-                    <span class="w3-third">
-                        <span class="project-box">
-                            <div class="w3-display-container">
-                                <a href="https://github.com/hakaneroztekin/profolio-professional-portfolio">
-
-                                    <div class="w3-hide-small">
-                                        <img src="wp-content/themes/portfolio/images/profolio-cover.png" class="w3-image w3-border w3-grayscale-min w3-hover-grayscale" style="width:90%;" alt="Profolio - A Minimal Portfolio">
-                                        <div class="w3-display-position w3-padding w3-display-hover"  style="top:55%;left:10%;">
-                                            <div class="w3-text-black">Minimal Portfolio »</div>    
-                                        </div></div>
-
-                                    <div class="w3-hide-medium w3-hide-large">
-                                        <img src="wp-content/themes/portfolio/images/profolio-cover.png" class="w3-image w3-border w3-grayscale-max" style="width:90%;" alt="Profolio - A Minimal Portfolio">
-                                        <div class="w3-display-position w3-padding"  style="top:55%;left:10%;">
-                                            <div class="w3-text-black">Minimal Portfolio »</div>    
-                                        </div>
-                                    </div>
-
                                 </a>
                             </div>
                         </span>
@@ -534,18 +456,8 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
             <span class="w3-container w3-quarter"  style="text-align: left;">
                 <div span="w3-row">
                     <div span="w3-col">
-                        <a href="https://www.facebook.com/hakan.eroztekin.3">
-                            <div class="w3-circle w3-center" style="width: 8%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left;">
-                                <span style="font-size: 11px; color:white">
-                                    <i class="fab fa-facebook-f"></i>
-                                </span>
-
-                            </div>
-                        </a>
-                    </div>
-                    <div span="w3-col">
                         <a href="https://www.linkedin.com/in/hakaneroztekin">
-                            <div class="w3-circle w3-center w3-white" style="width: 8%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left; margin-left: 4%;">
+                            <div class="w3-circle w3-center w3-white" style="width: 8%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left; margin-left: 7%; font-size: 68%">
                                 <strong><span style="font-size: 11px; color:#0077b5">
                                     <i class="fab fa-linkedin-in"></i>
                                     </span></strong>
@@ -592,18 +504,8 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
             <span class="w3-container w3-quarter"  style="text-align: left;">
                 <div span="w3-row">
                     <div span="w3-col">
-                        <a href="https://www.facebook.com/hakan.eroztekin.3">
-                            <div class="w3-circle w3-center" style="width: 13%; height: auto; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left;">
-                                <span style="font-size: 11px; color:white">
-                                    <i class="fab fa-facebook-f"></i>
-                                </span>
-
-                            </div>
-                        </a>
-                    </div>
-                    <div span="w3-col">
                         <a href="https://www.linkedin.com/in/hakaneroztekin">
-                            <div class="w3-circle w3-center w3-white" style="width: 13%; height: auto; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left; margin-left: 4%;">
+                            <div class="w3-circle w3-center w3-white" style="width: 13%; height: auto; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left; margin-left: 4%; font-size: 68%">
                                 <strong><span style="font-size: 11px; color:#0077b5">
                                     <i class="fab fa-linkedin-in"></i>
                                     </span></strong>
@@ -631,23 +533,9 @@ and <b>lead projects</b> in the future. I am eager to work for your company <b>t
                     </div>
                 </div>
             </span>
-
             <span class="w3-half" style="text-align: center;">
                 Developed by Hakan Eroztekin @ 2019 <br/>
                 Feel free to <a href="https://github.com/hakaneroztekin/profolio"> use this theme free »</a>
-            </span>
-
-            <span class="w3-quarter">
-                <a href="#top">
-                    <div class="w3-circle w3-center w3-right" style="width: 13%; background-color:#212121; border-width: 1px; border-color: white; border-style:solid; float:left;">
-                        <span style="font-size: 11px;">
-
-                            <i class="fas fa-arrow-up" style="color:white;"></i>
-
-                        </span>
-
-                    </div>
-                </a>
             </span>
         </div>
     </footer>
