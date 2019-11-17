@@ -29,7 +29,7 @@
                     <p>Founder,<br> Full Stack <br> Java Engineer,<br>AI Enthusiast</p>
                 </div>
                 <br>
-                <a href="/wp-content/uploads/2019/10/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
+                <a href="/wp-content/uploads/2019/11/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
                 <a href="#about"><div class="white-button">EXPLORE MORE</div></a>
                 <br/>
                 <br><br>
@@ -47,7 +47,7 @@
             <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split"><br>
             <b>Full Stack Java Engineer</b> with ability to follow established procedures and work in a challenging and responsibility-driven environment under little to no supervision, aspire to make your company more successful and make your customers happier.
             <br><br>
-            <a href="/wp-content/uploads/2019/10/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
+            <a href="/wp-content/uploads/2019/11/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
             <br>
         </section>
 
