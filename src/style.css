@@ -2,10 +2,9 @@
 Theme Name: Personal Portfolio Theme
 Theme URI: www.hakaneroztekin.com
 Description: A personal portfolio theme.
-Version: 1.1
+Version: 1.0
 Author: Hakan Eroztekin
 Author URI: www.hakaneroztekin.com
-Project code is accessible at https://github.com/hakaneroztekin/profolio-professional-portfolio
 */
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -24,7 +23,7 @@ time, mark, audio, video {
     padding:0;
     border:0;
     outline:0;
-    font-size:110%;
+    font-size:100%;
     vertical-align:baseline;
     background:transparent;
 }
@@ -135,7 +134,7 @@ header nav{
     float: right;
     margin-top: 15px;
     margin-right: 10px;
-    font-size: 17px;
+    font-size: 16px;
 
 }
 
@@ -207,7 +206,7 @@ p{
 
 #lead-banner p{
     color: #111;
-    font-size: 25px;
+    font-size: 20px;
     max-width: 600px;
     margin-top: 2px;
 }
@@ -265,7 +264,7 @@ p{
     border: 0px solid pink;
     vertical-align: middle;
     padding: 1%;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 
@@ -281,7 +280,7 @@ p{
     margin-top: 100px;  
     text-align: center;
     padding: 0 25%; 
-    font-size: 25px;
+    font-size: 18px;
 }
 
 
@@ -333,13 +332,15 @@ p{
 
 }
 
+
+
 #education-experience .li-brief{
     display: table-cell;
     text-align: center;
     vertical-align: top;
     position: relative;
     border: 0px solid pink;
-    font-size: 25px;
+    font-size: 20px;
     padding-left: 10%;
     padding-right: 5%;
 
@@ -354,7 +355,7 @@ p{
     table-layout: fixed;
     width: 70%; 
     padding-right: 5%;
-    font-size: 18px;
+
 }
 
 #education-experience .li-details.title::before{
@@ -362,7 +363,7 @@ p{
 }
 
 #education-experience .li-details .title{
-    font-size: 24px;
+    font-size: 22px;
     font-weight: bold;
 
 }
@@ -453,7 +454,7 @@ body{
 
 #education-experience .li-details .details-content{
     float:none;
-    font-size: 22px;
+    font-size: 18px;
     padding-right: 18%;
 }
 
@@ -482,7 +483,7 @@ body{
     margin-top:5%;
     text-decoration: none;
     backface-visibility: hidden;
-    font-size: 12px;
+
 }
 
 
@@ -495,11 +496,16 @@ footer{
     color: white;
     background-color: #212121;
     margin-top: 3%;
+    margin-bottom: 3%;
     padding-top: 1.5%;
     vertical-align: middle;
+    height: 75px;
 }
 
 @media screen and (max-width: 767px) { 
+
+
+
     .banner-title{
         color: #111;
         font-size: 170%;
@@ -749,6 +755,10 @@ footer{
         font-size: 20px;
         color:black;
     }
+
+
+
+
 }
 
 @media screen and (max-width: 400px) { 
@@ -845,4 +855,5 @@ footer{
         padding: 12px 7px;
         margin-top: 10px;
     }
+
 }
