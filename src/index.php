@@ -23,13 +23,13 @@
                 <div class="banner-title">Hakan Eröztekin
                 </div>
                 <div class="w3-hide-small">
-                    <p>Founder, Full Stack Java Engineer, AI Enthusiast</p>
+                    <p>Founder, Software Development Engineer, AI Enthusiast</p>
                 </div>
                 <div class="w3-hide-large w3-hide-medium">
-                    <p>Founder,<br> Full Stack <br> Java Engineer,<br>AI Enthusiast</p>
+                    <p>Founder,<br> Software Development Engineer,<br>AI Enthusiast</p>
                 </div>
                 <br>
-                <a href="/wp-content/uploads/2019/11/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
+                <a href="/wp-content/uploads/2020/02/HakanEroztekinCV.pdf"><div class="black-button">Download My CV</div></a>
                 <a href="#about"><div class="white-button">EXPLORE MORE</div></a>
                 <br/>
                 <br><br>
@@ -45,9 +45,9 @@
             <a name="about"></a> <!--anchor link-->
             <div class="section-title">ABOUT</div>
             <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split"><br>
-            <b>Full Stack Java Engineer</b> with ability to follow established procedures and work in a challenging and responsibility-driven environment under little to no supervision, aspire to make your company more successful and make your customers happier.
+            <b>Software Development Engineer</b> with ability to follow established procedures and work in a challenging and responsibility-driven environment under little to no supervision, aspire to make your company more successful and make your customers happier.
             <br><br>
-            <a href="/wp-content/uploads/2019/11/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
+            <a href="/wp-content/uploads/2020/02/HakanEroztekinCV.pdf"><div class="black-button w3-display-middle" style="position:relative;">Download My CV</div></a>
             <br>
         </section>
 
@@ -88,7 +88,7 @@
                         
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Full Stack Java Engineer</p>
+                                <p class="title">Software Development Engineer</p>
                                 <p class="alt-title w3-hide-small">adesso Turkey, March 2019 - Present</p>
                                 <p class="alt-title w3-hide-medium w3-hide-large">adesso Turkey,<br>March 2019 - Present</p>
                             </span>
@@ -113,7 +113,7 @@
                         <li class="li-brief"></li>
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Java Software Engineer Intern</p>
+                                <p class="title">Software Development Engineer Intern</p>
                                 <p class="alt-title w3-hide-small">adesso Turkey, 2018 July – 2018 Aug</p>
                                 <p class="alt-title w3-hide-medium w3-hide-large">adesso Turkey,<br>2018 July – 2018 Aug</p>
                             </span>
@@ -157,7 +157,7 @@
                         <li class="li-brief"></li>
                         <li class="li-details">
                             <span class="titles">
-                                <p class="title">Android Development Intern</p>
+                                <p class="title">Software Development Engineer Intern</p>
                                 <p class="alt-title w3-hide-small">Istanbul Technical University, June 2018 – July 2018</p>
                                 <p class="alt-title w3-hide-medium w3-hide-large">Istanbul Technical University,<br>June 2018 – July 2018</p>
                             </span>
@@ -233,7 +233,7 @@
                 <div class="section-title">PROJECTS</div>
                 <img src="wp-content/themes/portfolio/images/vertical-split.png" alt="vertical split">
                 <br>
-                <p class="alt-title">I have 1400+ commits in the 30+ projects <a href="https://github.com/hakaneroztekin">on GitHub</a>.<br> This portfolio page is 100% open source too! Access here: <a href="https://github.com/hakaneroztekin/profolio-professional-portfolio">Profolio</a>. 
+                <p class="alt-title">I have 1000+ commits in the 30+ projects <a href="https://github.com/hakaneroztekin">on GitHub</a>.<br> This portfolio page is 100% open source too! Access here: <a href="https://github.com/hakaneroztekin/profolio-professional-portfolio">Profolio</a>. 
                 <br>
                 Below are the some of my favorites.</p> 
                 <div class="w3-container">
@@ -494,7 +494,7 @@
             </span>
 
             <span class="w3-half" style="text-align: center;">
-                Developed by Hakan Eroztekin @ 2019 <br/>
+                Developed by Hakan Eroztekin @ 2020 <br/>
                 Feel free to <a href="https://github.com/hakaneroztekin/profolio"> use this theme free »</a>
             </span>
 
@@ -534,7 +534,7 @@
                 </div>
             </span>
             <span class="w3-half" style="text-align: center;">
-                Developed by Hakan Eroztekin @ 2019 <br/>
+                Developed by Hakan Eroztekin @ 2020 <br/>
                 Feel free to <a href="https://github.com/hakaneroztekin/profolio"> use this theme free »</a>
             </span>
         </div>
